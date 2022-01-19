@@ -1,0 +1,3058 @@
+60-6C-63-AD-73-D8 Fri Nov 19 15:03:27 2021
+.
+
+do/ven
+---------Current Vendor Information----------
+Model Name: CGN5-AP
+Vendor Name: Hitron Technologies
+IMAGE ID: 00151190
+Serial Number: B51213037142
+
+------------Version Information--------------
+Hardware Version: 1A
+Software Version: 6.1.5.0.5-pre2
+S/W Build Date: Sep 17 2020/18:21:52
+Bootloader Version:CGNV5-1.7.2-g749261d3-dirty
+
+------------Intreface Information------------
+RF MAC Address: 60:6C:63:AD:73:D8
+LAN MAC Address:60:6C:63:AD:73:DA
+Modem LAN IP: 192.168.100.1
+Modem LAN MASK: 255.255.255.0
+
+-------------Daemon Information--------------
+SSH Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+Telnet Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+HTTP Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+DHCP Daemon: on
+
+------------Capability Information-----------
+PP Control: enable
+TurboDox Control: enable
+D10 SW DL Mode: disable
+mainMenu> 
+top
+mainMenu> 
+do/dir
+Last downloaded Filename->EMPTY IMAGE
+Filename in sector 1->CGN5-AP-6.1.5.0.5-pre2-200917.sbn
+Filename in sector 2->CGN5-AP-6.1.5.0.5-pre2-200917.sbn
+Selected sector is 1
+mainMenu> 
+.
+.
+
+do/vendor
+---------Current Vendor Information----------
+Model Name: CGN5-AP
+Vendor Name: Hitron Technologies
+IMAGE ID: 00151190
+Serial Number: B51213037142
+
+------------Version Information--------------
+Hardware Version: 1A
+Software Version: 6.1.5.0.5-pre2
+S/W Build Date: Sep 17 2020/18:21:52
+Bootloader Version:CGNV5-1.7.2-g749261d3-dirty
+
+------------Intreface Information------------
+RF MAC Address: 60:6C:63:AD:73:D8
+LAN MAC Address:60:6C:63:AD:73:DA
+Modem LAN IP: 192.168.100.1
+Modem LAN MASK: 255.255.255.0
+
+-------------Daemon Information--------------
+SSH Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+Telnet Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+HTTP Daemon: LAN(Online) on, LAN(Offline) on, CABLE on
+DHCP Daemon: on
+
+------------Capability Information-----------
+PP Control: enable
+TurboDox Control: enable
+D10 SW DL Mode: disable
+mainMenu> 
+do/De/uss
+PGA gain code is 36
+PGA current is:      0
+Current Full Scale:  33.659996
+PloadMinSet:         28.250000
+Initial PloadMinSet: 28.250000 
+Power Reporting:    Yes
+
+Digital Att: 5.665076   5.660095        5.643750        5.378063        5.611859        6.750805        6.625896        6.501189
+Frquency   : 28.800020  40.000038       38.400040       36.800041       35.200039       33.600044       32.000019       30.400021
+Symbol rate:      1.28       1.28            1.28            1.28            1.28            1.28            1.28            1.28
+modulation :    64QAM      64QAM           64QAM           64QAM           64QAM           64QAM           64QAM           64QAM
+SCDMA mode :        0          0               0               0               0               0               0               0
+rep power  :  31.7500    32.0000         32.0000         32.2500         32.0000         30.7500         30.7500         30.7500
+Upstream    :       1          8               7               6               5               4               3               2
+
+Phigh      :  61.0000    61.0000         61.0000         61.0000         61.0000         61.0000         61.0000         61.0000
+PLow       :  18.1800    18.1800         18.1800         18.1800         18.1800         18.1800         18.1800         18.1800
+PdrwHigh   :  32.7500    32.7500         32.7500         32.7500         32.7500         32.7500         32.7500         32.7500
+PdrwLow    :  20.7500    20.7500         20.7500         20.7500         20.7500         20.7500         20.7500         20.7500
+deltaPf    :   3.7448     4.0000          3.9840          3.9680          3.9520          3.8408          3.7160          3.5912
+mainMenu> 
+.
+.
+.
+.
+
+do/De/dss
+do/De/dss
+Number of tuners   : 1
+Tuner Id #         :    1      
+Frequency(MHz)     : 0.000     
+Tuner Type         : Full CBW  
+
+Number of receivers: 32
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|  Receiver # | Frequency(MHz) | QAM locked | FEC locked | MPEG locked | CH enabled |    MSE   |   DCID  | RC index | Power dBmv |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      1      |   417000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   27    |  1 [Prm] |   -4.200   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      2      |   423000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   28    |     2    |   -4.200   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      3      |   429000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   29    |     3    |   -4.600   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      4      |   435000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   30    |     4    |   -4.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      5      |   441000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   31    |     5    |   -4.600   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      6      |   447000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   32    |     6    |   -5.000   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      7      |   411000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   26    |     7    |   -3.900   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      8      |   405000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   25    |     8    |   -3.800   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|      9      |   399000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   24    |     9    |   -3.800   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     10      |   393000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   23    |    10    |   -3.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     11      |   387000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   22    |    11    |   -3.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     12      |   381000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   21    |    12    |   -3.100   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     13      |   375000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   20    |    13    |   -3.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     14      |   369000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   19    |    14    |   -3.400   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     15      |   363000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   18    |    15    |   -3.600   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     16      |   357000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   17    |    16    |   -3.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     17      |   351000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   16    |    17    |   -3.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     18      |   345000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   15    |    18    |   -2.800   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     19      |   339000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   14    |    19    |   -2.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     20      |   333000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   13    |    20    |   -2.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     21      |   327000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |   12    |    21    |   -2.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     22      |   321000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   11    |    22    |   -2.800   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     23      |   315000000    |    YES     |    YES     |     YES     |    YES     |  -40.366 |   10    |    23    |   -3.200   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     24      |   309000000    |    YES     |    YES     |     YES     |    YES     |  -40.946 |    9    |    24    |   -3.300   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     25      |   303000000    |    YES     |    YES     |     YES     |    YES     |  -41.100 |    8    |    25    |   -3.600   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     26      |   297000000    |    YES     |    YES     |     YES     |    YES     |  -39.900 |    7    |    26    |   -3.700   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     27      |   291000000    |    YES     |    YES     |     YES     |    YES     |  -39.500 |    6    |    27    |   -3.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     28      |   285000000    |    YES     |    YES     |     YES     |    YES     |  -39.500 |    5    |    28    |   -3.200   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     29      |   279000000    |    YES     |    YES     |     YES     |    YES     |  -39.900 |    4    |    29    |   -2.900   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     30      |   273000000    |    YES     |    YES     |     YES     |    YES     |  -40.400 |    3    |    30    |   -2.800   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     31      |   267000000    |    YES     |    YES     |     YES     |    YES     |  -40.400 |    2    |    31    |   -3.200   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+|     32      |   261000000    |    YES     |    YES     |     YES     |    YES     |  -39.900 |    1    |    32    |   -3.500   |
++-------------+----------------+------------+------------+-------------+------------+----------+---------+----------+------------+
+mainMenu> 
+do/cm
+The CM status is OPERATIONAL
+mainMenu> 
+.
+
+do/configfile
+do/configfile
+Configuration File Parameters:
+******************************
+Network_Access =  1
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 02 02 01 02 02 04 01 e0 ( 1.3.6.1.4.1.8595.2.1.2.2.1.2.2 = 0xe0 )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 02 02 01 02 01 04 01 e0 ( 1.3.6.1.4.1.8595.2.1.2.2.1.2.1 = 0xe0 )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 02 02 01 02 03 04 01 e0 ( 1.3.6.1.4.1.8595.2.1.2.2.1.2.3 = 0xe0 )
+SNMP_MIB_Object = 30 11 06 0c 2b 06 01 04 01 c3 13 02 01 02 0f 00 02 01 01 ( 1.3.6.1.4.1.8595.2.1.2.15.0 = 1 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 01 04 02 31 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.1 = 0x3141 )
+SNMP_MIB_Object = 30 1b 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 01 04 09 43 43 52 2d 33 30 33 36 34 ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.1 = 0x4343522d3330333634 )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 01 40 04 c0 a8 01 32 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.1 = 0xc0a80132 )
+SNMP_MIB_Object = 30 37 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 01 04 25 43 43 52 2d 33 30 33 36 34 2d 33 2e 31 2e 31 2e 33 39 2d 54 57 2d 70 72 65 32 2d 31 36 30 36 31 33 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.1 = 0x4343522d33303336342d332e312e312e33392d54572d707265322d3136303631332e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 01 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.1 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 02 04 02 31 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.2 = 0x3141 )
+SNMP_MIB_Object = 30 1a 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 02 04 08 43 47 4e 34 2d 54 57 4e ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.2 = 0x43474e342d54574e )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 02 40 04 c0 a8 48 19 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.2 = 0xc0a84819 )
+SNMP_MIB_Object = 30 33 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 02 04 21 43 47 4e 34 2d 54 57 4e 2d 34 2e 35 2e 38 2e 31 35 2d 70 72 65 36 2d 31 36 30 36 31 35 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.2 = 0x43474e342d54574e2d342e352e382e31352d707265362d3136303631352e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 02 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.2 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 03 04 02 31 42 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.3 = 0x3142 )
+SNMP_MIB_Object = 30 1b 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 03 04 09 43 43 52 2d 33 30 33 36 34 ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.3 = 0x4343522d3330333634 )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 03 40 04 c0 a8 48 19 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.3 = 0xc0a84819 )
+SNMP_MIB_Object = 30 37 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 03 04 25 43 43 52 2d 33 30 33 36 34 2d 33 2e 31 2e 31 2e 33 39 2d 54 57 2d 70 72 65 32 2d 31 36 30 36 31 33 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.3 = 0x4343522d33303336342d332e312e312e33392d54572d707265322d3136303631332e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 03 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.3 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 04 04 02 31 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.4 = 0x3141 )
+SNMP_MIB_Object = 30 1e 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 04 04 0c 43 43 41 2d 33 30 33 36 30 2d 4e 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.4 = 0x4343412d33303336302d4e41 )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 04 40 04 c0 a8 48 19 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.4 = 0xc0a84819 )
+SNMP_MIB_Object = 30 33 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 04 04 21 43 43 41 2d 33 30 33 36 30 2d 4e 41 2d 33 2e 31 2e 33 2e 36 54 57 2d 31 34 30 39 31 36 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.4 = 0x4343412d33303336302d4e412d332e312e332e3654572d3134303931362e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 04 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.4 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 05 04 02 31 42 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.5 = 0x3142 )
+SNMP_MIB_Object = 30 1e 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 05 04 0c 43 43 41 2d 33 30 33 36 30 2d 4e 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.5 = 0x4343412d33303336302d4e41 )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 05 40 04 c0 a8 48 19 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.5 = 0xc0a84819 )
+SNMP_MIB_Object = 30 33 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 05 04 21 43 43 41 2d 33 30 33 36 30 2d 4e 41 2d 33 2e 31 2e 33 2e 36 54 57 2d 31 34 30 39 31 36 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.5 = 0x4343412d33303336302d4e412d332e312e332e3654572d3134303931362e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 05 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.5 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 06 04 02 31 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.6 = 0x3141 )
+SNMP_MIB_Object = 30 1a 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 06 04 08 43 47 4e 46 2d 54 57 4e ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.6 = 0x43474e462d54574e )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 06 40 04 c0 a8 48 19 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.6 = 0xc0a84819 )
+SNMP_MIB_Object = 30 37 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 06 04 25 43 47 4e 46 2d 54 57 4e 2d 33 2e 31 2e 31 2e 33 39 2d 54 57 4e 2d 70 72 65 31 2d 31 36 30 36 30 34 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.6 = 0x43474e462d54574e2d332e312e312e33392d54574e2d707265312d3136303630342e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 06 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.6 = 4 )
+SNMP_MIB_Object = 30 14 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 09 07 04 02 30 43 ( 1.3.6.1.4.1.8595.2.1.3.1.1.9.7 = 0x3043 )
+SNMP_MIB_Object = 30 17 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0a 07 04 05 43 48 49 54 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.10.7 = 0x4348495441 )
+SNMP_MIB_Object = 30 16 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0b 07 40 04 c0 a8 03 41 ( 1.3.6.1.4.1.8595.2.1.3.1.1.11.7 = 0xc0a80341 )
+SNMP_MIB_Object = 30 3a 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0c 07 04 28 43 48 49 54 41 2d 32 30 31 39 30 31 32 32 2d 48 69 74 72 6f 6e 44 6c 6f 61 64 54 61 62 6c 65 2d 44 33 2e 30 2e 73 62 6e ( 1.3.6.1.4.1.8595.2.1.3.1.1.12.7 = 0x43484954412d32303139303132322d486974726f6e446c6f61645461626c652d44332e302e73626e )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 c3 13 02 01 03 01 01 0d 07 02 01 04 ( 1.3.6.1.4.1.8595.2.1.3.1.1.13.7 = 4 )
+SNMP_MIB_Object = 30 10 06 0a 2b 06 01 02 01 45 01 03 09 00 02 02 20 b5 ( 1.3.6.1.2.1.69.1.3.9.0 = 8373 )
+SNMP_MIB_Object = 30 12 06 0a 2b 06 01 02 01 45 01 03 01 00 40 04 c0 a8 48 19 ( 1.3.6.1.2.1.69.1.3.1.0 = 0xc0a84819 )
+SNMP_MIB_Object = 30 40 06 0a 2b 06 01 02 01 45 01 03 02 00 04 32 43 42 57 33 38 33 47 34 53 2d 4e 33 30 30 5f 30 31 35 30 5f 31 34 39 2e 35 35 31 30 6d 70 35 2e 30 30 34 62 65 74 61 34 5f 64 6c 6f 61 64 2e 62 69 6e ( 1.3.6.1.2.1.69.1.3.2.0 = 0x4342573338334734532d4e3330305f303135305f3134392e353531306d70352e30303462657461345f646c6f61642e62696e )
+SNMP_MIB_Object = 30 0f 06 0a 2b 06 01 02 01 45 01 03 03 00 02 01 02 ( 1.3.6.1.2.1.69.1.3.3.0 = 2 )
+SNMP_MIB_Object = 30 1a 06 0e 2b 06 01 04 01 c3 13 02 01 02 0a 01 02 02 04 08 6b 62 72 6f 2d 54 46 4d ( 1.3.6.1.4.1.8595.2.1.2.10.1.2.2 = 0x6b62726f2d54464d )
+SNMP_MIB_Object = 30 1b 06 0f 2b 06 01 04 01 a2 3d 02 02 02 01 01 03 65 00 04 08 6b 62 72 6f 2d 54 46 4d ( 1.3.6.1.4.1.4413.2.2.2.1.1.3.101.0 = 0x6b62726f2d54464d )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 02 01 40 04 7b c1 6f c2 ( 1.3.6.1.2.1.69.1.2.1.2.1 = 0x7bc16fc2 )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 03 01 40 04 ff ff ff ff ( 1.3.6.1.2.1.69.1.2.1.3.1 = 0xffffffff )
+SNMP_MIB_Object = 30 15 06 0b 2b 06 01 02 01 45 01 02 01 04 01 04 06 70 75 62 6c 69 63 ( 1.3.6.1.2.1.69.1.2.1.4.1 = 0x7075626c6963 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 05 01 02 01 04 ( 1.3.6.1.2.1.69.1.2.1.5.1 = 4 )
+SNMP_MIB_Object = 30 11 06 0b 2b 06 01 02 01 45 01 02 01 06 01 04 02 40 00 ( 1.3.6.1.2.1.69.1.2.1.6.1 = 0x4000 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 07 01 02 01 04 ( 1.3.6.1.2.1.69.1.2.1.7.1 = 4 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 08 01 02 01 02 ( 1.3.6.1.2.1.69.1.2.1.8.1 = 2 )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 02 10 40 04 ff ff ff ff ( 1.3.6.1.2.1.69.1.2.1.2.16 = 0xffffffff )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 03 10 40 04 ff ff ff ff ( 1.3.6.1.2.1.69.1.2.1.3.16 = 0xffffffff )
+SNMP_MIB_Object = 30 16 06 0b 2b 06 01 02 01 45 01 02 01 04 10 04 07 70 72 69 76 61 74 65 ( 1.3.6.1.2.1.69.1.2.1.4.16 = 0x70726976617465 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 05 10 02 01 03 ( 1.3.6.1.2.1.69.1.2.1.5.16 = 3 )
+SNMP_MIB_Object = 30 11 06 0b 2b 06 01 02 01 45 01 02 01 06 10 04 02 40 00 ( 1.3.6.1.2.1.69.1.2.1.6.16 = 0x4000 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 07 10 02 01 04 ( 1.3.6.1.2.1.69.1.2.1.7.16 = 4 )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 02 12 40 04 ff ff ff ff ( 1.3.6.1.2.1.69.1.2.1.2.18 = 0xffffffff )
+SNMP_MIB_Object = 30 13 06 0b 2b 06 01 02 01 45 01 02 01 03 12 40 04 ff ff ff ff ( 1.3.6.1.2.1.69.1.2.1.3.18 = 0xffffffff )
+SNMP_MIB_Object = 30 15 06 0b 2b 06 01 02 01 45 01 02 01 04 12 04 06 70 75 62 6c 69 63 ( 1.3.6.1.2.1.69.1.2.1.4.18 = 0x7075626c6963 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 05 12 02 01 02 ( 1.3.6.1.2.1.69.1.2.1.5.18 = 2 )
+SNMP_MIB_Object = 30 11 06 0b 2b 06 01 02 01 45 01 02 01 06 12 04 02 40 00 ( 1.3.6.1.2.1.69.1.2.1.6.18 = 0x4000 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 02 01 45 01 02 01 07 12 02 01 04 ( 1.3.6.1.2.1.69.1.2.1.7.18 = 4 )
+SNMP_MIB_Object = 30 10 06 0b 2b 06 01 04 01 8b 15 4e 01 07 00 02 01 02 ( 1.3.6.1.4.1.1429.78.1.7.0 = 2 )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 8b 15 4d 01 07 01 01 01 01 02 01 03 ( 1.3.6.1.4.1.1429.77.1.7.1.1.1.1 = 3 )
+SNMP_MIB_Object = 30 13 06 0e 2b 06 01 04 01 8b 15 4d 01 07 01 01 01 02 02 01 03 ( 1.3.6.1.4.1.1429.77.1.7.1.1.1.2 = 3 )
+SNMP_MIB_Object = 30 15 06 0c 2b 06 01 04 01 8b 15 4d 01 07 06 00 04 05 61 64 6d 69 6e ( 1.3.6.1.4.1.1429.77.1.7.6.0 = 0x61646d696e )
+SNMP_MIB_Object = 30 18 06 0c 2b 06 01 04 01 8b 15 4d 01 07 07 00 04 08 61 64 6d 69 6e 31 32 33 ( 1.3.6.1.4.1.1429.77.1.7.7.0 = 0x61646d696e313233 )
+SNMP_MIB_Object = 30 14 06 0f 2b 06 01 04 01 8b 15 4d 01 07 02 01 03 64 64 02 01 64 ( 1.3.6.1.4.1.1429.77.1.7.2.1.3.100.100 = 100 )
+SNMP_MIB_Object = 30 1a 06 0c 2b 06 01 04 01 8b 15 4d 01 07 0a 00 04 0a ff ff ff ff ff ff ff ff ff ff ( 1.3.6.1.4.1.1429.77.1.7.10.0 = 0xffffffffffffffffffff )
+SNMP_MIB_Object = 30 1a 06 0c 2b 06 01 04 01 8b 15 4d 01 07 0b 00 04 0a ff ff ff ff ff ff ff ff ff ff ( 1.3.6.1.4.1.1429.77.1.7.11.0 = 0xffffffffffffffffffff )
+Manufact_Code_Verification_Certificate = 30 82 03 1c 30 82 02 04 a0 03 02 01 02 02 10 71 6f 0c b8 09 14 54 7e 1c 57 6e 1e 32 43 0d c2 30 0d 06 09 2a 86 48 86 f7 0d 01 01 05 05 00 30 81 97 31 0b 30 09 06 03 55 04 06 13 02 55 53 31 39 30 37 06 03 55 04 0a 13 30 44 61 74 61 20 4f 76 65 72 20 43 61 62 6c 65 20 53 65 72 76 69 63 65 20 49 6e 74 65 72 66 61 63 65 20 53 70 65 63 69 66 69 63 61 74 69 6f 6e 73 31 15 30 13 06 03 55 04 0b 13 0c 43 61 62 6c 65 20 4d 6f 64 65 6d 73 31 36 30 34 06 03 55 04 03 13 2d 44 4f 43 53 49 53 20 43 61 62 6c 65 20 4d 6f 64 65 6d 20 52 6f 6f 74 20 43 65 72 74 69 66 69 63 61 74 65 20 41 75 74 68 6f 72 69 74 79 30 1e 17 0d 30 36 31 30 31 33 30 30 30 30 30 30 5a 17 0d 31 36 31 30 31 32 32 33 35 39 35 39 5a 30 64 31 0b 30 09 06 03 55 04 06 13 02 54 57 31 1c 30 1a 06 03 55
+Manufact_Code_Verification_Certificate = 04 0a 13 13 48 69 74 72 6f 6e 20 54 65 63 68 6e 6f 6c 6f 67 69 65 73 31 0f 30 0d 06 03 55 04 0b 13 06 44 4f 43 53 49 53 31 26 30 24 06 03 55 04 03 13 1d 43 6f 64 65 20 56 65 72 69 66 69 63 61 74 69 6f 6e 20 43 65 72 74 69 66 69 63 61 74 65 30 81 9f 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01 05 00 03 81 8d 00 30 81 89 02 81 81 00 c9 4e 03 57 4c 8f b2 b3 cb 72 4f 07 0a e7 eb a3 2b 85 54 4d 8d b6 0f 2c 8a 36 43 3e 92 77 82 07 cb 8d 84 47 e4 be c5 46 e4 5c ba 99 b1 7c 5b e4 be d8 23 f4 47 53 1a 9e 05 41 9d c4 05 3a 6d 39 9f b8 6c 7a 55 a1 b3 91 bb 5c 28 1a f6 08 9e 5e 98 90 10 04 b2 f0 29 a1 fa 60 4b 48 ac 9e 99 c7 d6 40 ce d5 b5 6b 05 aa 62 1b e1 11 26 57 60 0e 3b 08 9c 3e 36 ec 39 43 af b0 b8 d6 10 40 98 f1 02 03 01 00 01 a3 1a 30 18 30 16 06 03 55 1d 25 01
+Manufact_Code_Verification_Certificate = 01 ff 04 0c 30 0a 06 08 2b 06 01 05 05 07 03 03 30 0d 06 09 2a 86 48 86 f7 0d 01 01 05 05 00 03 82 01 01 00 90 dd 29 d0 ed e4 09 73 3d 8e 00 68 51 4c 2d e7 3c a7 55 9e 9d 0b 47 65 a7 cf 6a e0 5d 58 50 48 c0 c1 18 06 d7 fe 0c d7 d4 37 96 1f 80 e2 df d2 8c 6e c1 04 c7 e9 57 18 99 5e d1 97 1e 41 c8 2f f0 ac 3c 10 7b 1e b6 99 7f 6a 25 0d 00 3e db ca 0b 1e 74 80 5a d6 01 cf 56 0d 78 30 e3 ec 42 47 a6 13 22 24 f7 22 0a 10 f9 f8 c0 b2 83 74 3d af 55 a9 23 66 c9 e9 2a b0 7c 68 3f 77 27 c6 8d 5b 21 18 7a dd f8 fd 04 d7 1b ab b1 42 9e 3a ac b5 93 25 40 2f 57 ea 62 ac 88 55 80 d3 f9 8e 03 5f 62 c8 c0 43 ae 8c ba af 43 d0 ef c9 d8 bb 44 2e b4 8a e5 50 d2 6d ec b5 1c ba d3 73 86 2c 27 40 d3 92 c1 53 79 80 4a 2f 98 b3 91 5e 1b a9 cb 2f 01 d8 9c 55 21 c5 37 7a bb d4
+Manufact_Code_Verification_Certificate = 8a 42 af d6 95 4b 4e 54 99 db 19 59 47 5a d5 14 1c 66 e7 fe 2d 02 1f 95 19 f6 9b e9 71 fb b8 7c 29 d6 0f c8 c9 04
+----------------------------------------------------------------------------
+Version 3 certificate
+Serial Number (16 bytes):
+ 71 6f 0c b8 09 14 54 7e 1c 57 6e 1e 32 43 0d c2      [qo....T~.Wn.2C..]
+Issuer Name
+********************
+ ORG Name : Data Over Cable Service Interface Specifications
+ COMMUNITY NAME : US
+ COMMON NAME : DOCSIS Cable Modem Root Certificate Authority
+ ORG UNIT : Cable Modems
+Validity Start
+Oct 13 00:00:00 2006 GMT
+Validity End
+Oct 12 23:59:59 2016 GMT
+Subject Name
+********************
+ ORG Name : Hitron Technologies
+ COMMUNITY NAME : TW
+ COMMON NAME : Code Verification Certificate
+ ORG UNIT : DOCSIS
+Public Key BER (162 bytes):
+ 30 81 9f 30 0d 06 09 2a 86 48 86 f7 0d 01 01 01      [0..0...*.H......]
+ 05 00 03 81 8d 00 30 81 89 02 81 81 00 c9 4e 03      [......0.......N.]
+ 57 4c 8f b2 b3 cb 72 4f 07 0a e7 eb a3 2b 85 54      [WL....rO.....+.T]
+ 4d 8d b6 0f 2c 8a 36 43 3e 92 77 82 07 cb 8d 84      [M...,.6C>.w.....]
+ 47 e4 be c5 46 e4 5c ba 99 b1 7c 5b e4 be d8 23      [G...F.\...|[...#]
+ f4 47 53 1a 9e 05 41 9d c4 05 3a 6d 39 9f b8 6c      [.GS...A...:m9..l]
+ 7a 55 a1 b3 91 bb 5c 28 1a f6 08 9e 5e 98 90 10      [zU....\(....^...]
+ 04 b2 f0 29 a1 fa 60 4b 48 ac 9e 99 c7 d6 40 ce      [...)..`KH.....@.]
+ d5 b5 6b 05 aa 62 1b e1 11 26 57 60 0e 3b 08 9c      [..k..b...&W`.;..]
+ 3e 36 ec 39 43 af b0 b8 d6 10 40 98 f1 02 03 01      [>6.9C.....@.....]
+ 00 01                                                [..]
+----------------------------------------------------------------------------
+Maximum_Number_of_CPEs =  8
+Upstream_Service_Flow_Encoding :
+        Service_Flow_Reference =  1
+        QoS_Parameters_Set_Type = 07
+        Traffic_Priority = 00
+        Upstream_Maximum_Traffic_Rate = 600000000
+        Max_Traffic_Burst = 28800
+        Min_Reserved_Traffic_Rate = 32000
+        Max_Concatinated_Burst = 28800
+        Service_Flow_Scheduling_Type =  2
+Downstream_Service_Flow_Encoding :
+        Service_Flow_Reference =  3
+        QoS_Parameters_Set_Type = 07
+        Traffic_Priority =  0
+        Downstream_Maximum_Traffic_Rate = 2100000000
+        Min_Reserved_Traffic_Rate = 32000
+Privacy_Enable =  1
+CM_MIC = 8b f9 80 3a c9 a0 a9 4b 55 8b 00 76 bd e9 86 a2
+CMTS_MIC = 94 6c 23 73 cc 82 67 d7 dd f6 20 ea 91 44 ca d4
+mainMenu> 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+system/network
+Network devices list:
+br0       Link encap:Ethernet  HWaddr EA:3E:A1:8B:BD:AD  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+cni0      Link encap:Ethernet  HWaddr 00:05:CA:80:00:00  
+          UP BROADCAST RUNNING PROMISC MULTICAST  MTU:1500  Metric:1
+          RX packets:805783 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:807588 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:94785223 (90.3 MiB)  TX bytes:96111809 (91.6 MiB)
+
+erouter0  Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DB  
+          inet addr:192.168.143.11  Bcast:192.168.143.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:80379 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:75790 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:6439112 (6.1 MiB)  TX bytes:6088098 (5.8 MiB)
+
+esafe0    Link encap:Ethernet  HWaddr 00:00:00:00:00:00  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:75790 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:80379 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:6088098 (5.8 MiB)  TX bytes:6439112 (6.1 MiB)
+
+l2sd0     Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          UP BROADCAST RUNNING PROMISC MULTICAST  MTU:1500  Metric:1
+          RX packets:213147 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:592231 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:24262911 (23.1 MiB)  TX bytes:239707325 (228.6 MiB)
+
+l2sd0.2   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.0.1  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73da:626c:63ff:fead:73da/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73da/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:158780 errors:0 dropped:211 overruns:0 frame:0
+          TX packets:285156 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:13893239 (13.2 MiB)  TX bytes:123237199 (117.5 MiB)
+
+l2sd0.3   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.101.1  Bcast:192.168.101.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e1:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2812 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:157664 (153.9 KiB)
+
+l2sd0.4   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.102.1  Bcast:192.168.102.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e2:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:2812 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:157664 (153.9 KiB)
+
+l2sd0.4093 Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.254.253  Bcast:192.168.254.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:54310 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:67623 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:5676878 (5.4 MiB)  TX bytes:4949468 (4.7 MiB)
+
+l2sd0.5   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.103.1  Bcast:192.168.103.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e3:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:233794 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:0 (0.0 B)  TX bytes:108833746 (103.7 MiB)
+
+lbr0      Link encap:Ethernet  HWaddr 00:05:CA:00:00:13  
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:5939 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:5939 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:404280 (394.8 KiB)  TX bytes:404280 (394.8 KiB)
+
+wan0      Link encap:Ethernet  HWaddr 60:6C:63:AD:73:D8  
+          inet addr:192.168.143.10  Bcast:192.168.143.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING PROMISC MULTICAST  MTU:1500  Metric:1
+          RX packets:760426 errors:0 dropped:107 overruns:0 frame:0
+          TX packets:731798 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:87904907 (83.8 MiB)  TX bytes:90023711 (85.8 MiB)
+
+Link status:
+cat: can't open '/proc/net/avalanche/cpmac_link': No such file or directory
+cat: can't open '/proc/net/avalanche/usb_link': No such file or directory
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+192.168.0.0     *               255.255.255.0   U     0      0        0 l2sd0.2
+192.168.100.0   *               255.255.255.0   U     0      0        0 l2sd0.2
+192.168.100.0   *               255.255.255.0   U     0      0        0 l2sd0.3
+192.168.100.0   *               255.255.255.0   U     0      0        0 l2sd0.4
+192.168.100.0   *               255.255.255.0   U     0      0        0 l2sd0.5
+192.168.101.0   *               255.255.255.0   U     0      0        0 l2sd0.3
+192.168.102.0   *               255.255.255.0   U     0      0        0 l2sd0.4
+192.168.103.0   *               255.255.255.0   U     0      0        0 l2sd0.5
+192.168.254.0   *               255.255.255.0   U     0      0        0 l2sd0.4093
+Kernel IPv6 routing table
+Destination                                 Next Hop                                Flags Metric Ref    Use Iface
+fd00:606c:63ad:73da::/64                    ::                                      U     256    0        0 l2sd0.2 
+fd00:606c:63ad:73e1::/64                    ::                                      U     256    0        0 l2sd0.3 
+fd00:606c:63ad:73e2::/64                    ::                                      U     256    0        0 l2sd0.4 
+fd00:606c:63ad:73e3::/64                    ::                                      U     256    0        0 l2sd0.5 
+fe80::/64                                   ::                                      U     256    0        0 l2sd0.2 
+fe80::/64                                   ::                                      U     256    0        0 l2sd0.3 
+fe80::/64                                   ::                                      U     256    0        0 l2sd0.4 
+fe80::/64                                   ::                                      U     256    0        0 l2sd0.5 
+::1/128                                     ::                                      U     0      0        1 lo      
+fd00:606c:63ad:73da:626c:63ff:fead:73da/128 ::                                      U     0      0        1 lo      
+fd00:606c:63ad:73e1:626c:63ff:fead:73e0/128 ::                                      U     0      0        1 lo      
+fd00:606c:63ad:73e2:626c:63ff:fead:73e0/128 ::                                      U     0      0        1 lo      
+fd00:606c:63ad:73e3:626c:63ff:fead:73e0/128 ::                                      U     0      0        1 lo      
+fe80::626c:63ff:fead:73da/128               ::                                      U     0      0        1 lo      
+fe80::626c:63ff:fead:73e0/128               ::                                      U     0      0        1 lo      
+fe80::626c:63ff:fead:73e0/128               ::                                      U     0      0        1 lo      
+fe80::626c:63ff:fead:73e0/128               ::                                      U     0      0        1 lo      
+ff02::1/128                                 ::                                      UC    0      2        0 l2sd0.2 
+ff02::2/128                                 ::                                      UC    0      3        0 l2sd0.2 
+ff02::16/128                                ::                                      UC    0      27       0 l2sd0.2 
+ff02::fb/128                                ::                                      UC    0      96       0 l2sd0.2 
+ff02::1:2/128                               ::                                      UC    0      7        0 l2sd0.2 
+ff02::1:3/128                               ::                                      UC    0      17       0 l2sd0.2 
+ff00::/8                                    ::                                      U     256    0        0 br0     
+ff00::/8                                    ::                                      U     256    0        0 lbr0    
+ff00::/8                                    ::                                      U     256    0        0 cni0    
+ff00::/8                                    ::                                      U     256    0        0 l2sd0   
+ff00::/8                                    ::                                      U     256    0        6 l2sd0.2 
+ff00::/8                                    ::                                      U     256    0        0 l2sd0.3 
+ff00::/8                                    ::                                      U     256    0        0 l2sd0.4 
+ff00::/8                                    ::                                      U     256    0        0 l2sd0.5 
+ff00::/8                                    ::                                      U     256    0        0 l2sd0.4093
+ff00::/8                                    ::                                      U     256    0        0 wan0    
+ff00::/8                                    ::                                      U     256    0        0 erouter0
+ARP Table:
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.0.86             ether   78:d2:94:a7:33:88   C     *               l2sd0.2
+192.168.143.248          ether   8c:6d:77:eb:04:72   C     *               erouter0
+192.168.0.145            ether   50:3e:aa:d3:8d:74   C     *               l2sd0.2
+192.168.143.249          ether   f4:28:53:1e:b2:73   C     *               wan0
+192.168.143.248          ether   8c:6d:77:eb:04:72   C     *               wan0
+192.168.254.254          ether   bc:14:01:00:00:80   C     *               l2sd0.4093
+192.168.0.197            ether   00:12:0e:fd:6f:b8   C     *               l2sd0.2
+192.168.143.249          ether   f4:28:53:1e:b2:73   C     *               erouter0
+192.168.72.25                    (incomplete)              *               wan0
+Networking statistics:
+Inter-|   Receive                                                |  Transmit
+ face |bytes    packets errs drop fifo frame compressed multicast|bytes    packets errs drop fifo colls carrier compressed
+  gre0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+l2sd0.3:       0       0    0    0    0     0          0         0   157664    2812    0    0    0     0       0          0
+esafe0: 6092864   75846    0    0    0     0          0         0  6444848   80448    0    0    0     0       0          0
+  lbr0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+    lo:  404280    5939    0    0    0     0          0         0   404280    5939    0    0    0     0       0          0
+   br0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ tunl0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+gretap0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+ip6gre0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+l2sd0.2: 13902257  158897    0  211    0     0          0     79614 123262523  285222    0    0    0     0       0          0
+erouter0: 6444848   80448    0    0    0     0          0         0  6092864   75846    0    0    0     0       0          0
+ l2sd0: 24274503  213264    0    0    0     0          0         0 239743351  592319    0    0    0     0       0          0
+  wan0: 87906656  760448    0  107    0     0          0         0 90023799  731799    0    0    0     0       0          0
+  cni0: 94791235  805852    0    0    0     0          0         0 96116663  807645    0    0    0     0       0          0
+l2sd0.5:       0       0    0    0    0     0          0         0 108844096  233816    0    0    0     0       0          0
+ip6tnl0:       0       0    0    0    0     0          0         0        0       0    0    0    0     0       0          0
+l2sd0.4093: 5676878   54310    0    0    0     0          0         0  4949468   67623    0    0    0     0       0          0
+  lan0:       0       0    0 10353    0     0          0         0      438       5    0    0    0     0       0          0
+l2sd0.4:       0       0    0    0    0     0          0         0   157664    2812    0    0    0     0       0          0
+Protocols statistics:
+protocol  size sockets  memory press maxhdr  slab module     cl co di ac io in de sh ss gs se re sp bi br ha uh gp em
+PPPOL2TP   480      0      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+KEY        424      0      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+PACKET     768      0      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+PINGv6     696      0      -1   NI       0   yes  kernel      y  y  y  n  n  y  n  n  y  y  y  y  n  y  y  y  y  y  n
+RAWv6      696      0      -1   NI       0   yes  kernel      y  y  y  n  y  y  y  n  y  y  y  y  n  y  y  y  y  n  n
+UDPLITEv6  688      0      -1   NI       0   yes  kernel      y  y  y  n  y  y  y  n  y  y  y  y  n  n  y  y  y  y  n
+UDPv6      688      0      12   NI       0   yes  kernel      y  y  y  n  y  n  y  n  y  y  y  y  n  n  y  y  y  y  n
+TCPv6     1320      5      23   no     208   yes  kernel      y  y  y  y  y  y  y  y  y  y  y  y  y  n  y  y  y  y  y
+PPTP       480      0      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+PPPOE      480      0      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+UNIX       448     21      -1   NI       0   yes  kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+UDP-Lite   544      0      -1   NI       0   yes  kernel      y  y  y  n  y  y  y  n  y  y  y  y  y  n  y  y  y  y  n
+PING       512      0      -1   NI       0   yes  kernel      y  y  y  n  n  y  n  n  y  y  y  y  n  y  y  y  y  y  n
+RAW        520      1      -1   NI       0   yes  kernel      y  y  y  n  y  y  y  n  y  y  y  y  n  y  y  y  y  n  n
+UDP        544     27      12   NI       0   yes  kernel      y  y  y  n  y  n  y  n  y  y  y  y  y  n  y  y  y  y  n
+TCP       1176     53      23   no     208   yes  kernel      y  y  y  y  y  y  y  y  y  y  y  y  y  n  y  y  y  y  y
+NETLINK    512      4      -1   NI       0   no   kernel      n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n  n
+
+ Docsis bridge mode is: 1  (0=off; 1=reg; 2=pre reg; 3=standby)
+ --------------------------------------------------------------
+ Docsis bridge erouter mode is: 1  (0=disable; 1=ebable)
+ Docsis bridge lbridge_interface_mask: 0x0
+ --------------------------------------------------------------
+ index  Interface       Type
+ 0      cni0            CABLE
+ 1      lbr0            CMCI
+ 2      lan0            LAN IP
+ 3      wan0            WAN IP
+ 4      esafe0          ESAFE
+ --------------------------------------------------------------
+
+ Esafe configuration
+ -------------------
+ eSafe dev        Target dev       Type            
+ ---------------- ---------------- ----------------
+ esafe0           erouter0         EPSI/EROUTER
+
+
+Docsis bridge counters
+----------------------
+Static Cpe      1
+Dynamic Cpe     0
+----------------------
+Index   Name    In      Out     Discard UnSup   FltDrop FwrdDrop        InUni   OutUni  InMcast OutMcast        InBcast OutBcast
+-----   ----    --      ---     ------- -----   ------- --------        -----   ------  ------- --------        ------- --------
+1       lo      0       0       0       0       0       0               0       0       0       0               0       0
+2       tunl0   0       0       0       0       0       0               0       0       0       0               0       0
+3       gre0    0       0       0       0       0       0               0       0       0       0               0       0
+4       gretap0 0       0       0       0       0       0               0       0       0       0               0       0
+5       ip6tnl0 0       0       0       0       0       0               0       0       0       0               0       0
+6       ip6gre0 0       0       0       0       0       0               0       0       0       0               0       0
+7       l2sd0   0       0       0       0       0       0               0       0       0       0               0       0
+8       l2sd0.4093      0       0       0       0       0       0               0       0       0       0               0       0
+9       cni0    805859  807651  0       0       0       0               770595  804969  24908   0               10356   2682
+10      lbr0    0       0       0       0       0       0               0       0       0       0               0       0
+11      lan0    1       10356   4       0       0       0               0       0       1       0               0       10356
+12      wan0    731803  760562  0       0       0       0               730454  725298  0       24908           1349    10356
+13      br0     0       0       0       0       0       0               0       0       0       0               0       0
+14      erouter0        0       0       0       0       0       0               0       0       0       0               0       0
+15      esafe0  75848   80453   0       0       0       0               74515   45297   0       24832           1333    10324
+16      l2sd0.2 0       0       0       0       0       0               0       0       0       0               0       0
+17      l2sd0.3 0       0       0       0       0       0               0       0       0       0               0       0
+18      l2sd0.4 0       0       0       0       0       0               0       0       0       0               0       0
+19      l2sd0.5 0       0       0       0       0       0               0       0       0       0               0       0
+
+Index   Mcast MAC               Type    Hash index      ref count
+-----   ---------               ----    ----------      ---------
+0       33:33:00:00:00:01               3       1       1
+Register Dump, 32-byte words: Length=256, Data at 0x9118000:
+
+0x09118000      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118010      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118020      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118030      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118040      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118050      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118060      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118070      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118080      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x09118090      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180A0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180B0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180C0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180D0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180E0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x091180F0      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+
+Register Dump, 32-byte words: Length=32, Data at 0x904a500:
+
+0x0904A500      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+0x0904A510      FFFFFFFF FFFFFFFF FFFFFFFF FFFFFFFF 
+
+mainMenu> 
+.
+.
+
+system/ipPrint
+br0       Link encap:Ethernet  HWaddr EA:3E:A1:8B:BD:AD  
+cni0      Link encap:Ethernet  HWaddr 00:05:CA:80:00:00  
+erouter0  Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DB  
+          inet addr:192.168.143.11  Bcast:192.168.143.255  Mask:255.255.255.0
+esafe0    Link encap:Ethernet  HWaddr 00:00:00:00:00:00  
+l2sd0     Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+l2sd0.2   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.0.1  Bcast:192.168.0.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73da:626c:63ff:fead:73da/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73da/64 Scope:Link
+l2sd0.3   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.101.1  Bcast:192.168.101.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e1:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+l2sd0.4   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.102.1  Bcast:192.168.102.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e2:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+l2sd0.4093 Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.254.253  Bcast:192.168.254.255  Mask:255.255.255.0
+l2sd0.5   Link encap:Ethernet  HWaddr 60:6C:63:AD:73:DA  
+          inet addr:192.168.103.1  Bcast:192.168.103.255  Mask:255.255.255.0
+          inet6 addr: fd00:606c:63ad:73e3:626c:63ff:fead:73e0/64 Scope:Global
+          inet6 addr: fe80::626c:63ff:fead:73e0/64 Scope:Link
+lbr0      Link encap:Ethernet  HWaddr 00:05:CA:00:00:13  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+wan0      Link encap:Ethernet  HWaddr 60:6C:63:AD:73:D8  
+          inet addr:192.168.143.10  Bcast:192.168.143.255  Mask:255.255.255.0
+mainMenu> 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+on:
+Node 0, zone   Normal
+  pages free     31686
+        min      499
+        low      623
+        high     748
+        scanned  0
+        spanned  64512
+        present  64512
+        managed  62498
+    nr_free_pages 31686
+    nr_alloc_batch 4277271772
+    nr_inactive_anon 761
+    nr_active_anon 11792
+    nr_inactive_file 1948
+    nr_active_file 2694
+    nr_unevictable 3481
+    nr_mlock     4464
+    nr_anon_pages 12051
+    nr_mapped    3973
+    nr_file_pages 8626
+    nr_dirty     4
+    nr_writeback 0
+    nr_slab_reclaimable 501
+    nr_slab_unreclaimable 1845
+    nr_page_table_pages 2115
+    nr_kernel_stack 204
+    nr_unstable  0
+    nr_bounce    0
+    nr_vmscan_write 0
+    nr_vmscan_immediate_reclaim 0
+    nr_writeback_temp 0
+    nr_isolated_anon 0
+    nr_isolated_file 0
+    nr_shmem     1084
+    nr_dirtied   17437
+    nr_written   17425
+    nr_anon_transparent_hugepages 0
+    nr_free_cma  0
+        protection: (0, 0)
+  pagesets
+    cpu: 0
+              count: 37
+              high:  90
+              batch: 15
+  all_unreclaimable: 0
+  start_pfn:         327680
+  inactive_ratio:    1
+Alignment:
+User:           269781
+System:         253
+Skipped:        0
+Half:           842
+Word:           268058
+DWord:          0
+Multi:          1134
+User faults:    2 (fixup)
+MTDs:
+dev:    size   erasesize  name
+Mounts:
+rootfs / rootfs rw 0 0
+/dev/root / squashfs ro,relatime 0 0
+proc /proc proc rw,relatime 0 0
+ramfs /var ramfs rw,relatime 0 0
+sysfs /sys sysfs rw,relatime 0 0
+tmpfs /dev tmpfs rw,relatime 0 0
+devpts /dev/pts devpts rw,relatime,mode=600 0 0
+/dev/mmcblk0p9 /nvram ext3 rw,relatime,errors=continue,barrier=1,data=journal 0 0
+tmpfs /fss tmpfs ro,relatime 0 0
+/dev/mmcblk0p12 /fss/gw squashfs ro,relatime 0 0
+tmpfs /etc tmpfs ro,relatime 0 0
+ICC information:
+ICC namespace handle: /var/tmp/icc_handle
+Shaerd memory:
+        size 2048000
+        created by 177
+        last accessed by 21092
+        attached to 80 processes
+Max destinations: 300
+ICC internal size: 2048000
+ICC header size: 20500
+debug flags: 0x0
+43 destination points on free list
+        dest 0: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 1: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 2: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 3: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 4: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 5: syncvar -1 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 6: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 7: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 8: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 10: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 11: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 13: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 14: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 15: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 16: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 17: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 18: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 19: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 20: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 21: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 22: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 25: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 26: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 27: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 28: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 29: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 30: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 31: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 32: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 33: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 34: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 35: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 36: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 37: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 38: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 39: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 41: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 42: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 44: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 45: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 46: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 48: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 49: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 50: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 51: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 52: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 53: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 54: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 55: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 56: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 58: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 60: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 61: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 63: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 66: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 68: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 69: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 70: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 71: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 72: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 73: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 74: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 75: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 76: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 77: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 78: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 79: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 80: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 81: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 82: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 84: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 85: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 86: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 87: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 88: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 93: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 96: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 99: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 100: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 102: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 103: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 104: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 107: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 108: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 109: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 110: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 111: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 112: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 114: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 115: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 116: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 117: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 118: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 123: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 124: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 125: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 126: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 127: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 128: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 129: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 130: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 131: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 132: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 133: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 134: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 135: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 136: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 137: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 138: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 139: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 140: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 141: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 142: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 143: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 144: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 145: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 146: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 147: syncvar -1 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 148: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 149: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 150: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 151: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 152: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 153: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 154: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 155: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 156: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 157: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 158: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 159: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 160: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 161: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 162: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 163: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 164: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 165: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 166: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 167: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 168: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 169: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 170: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 171: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 172: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 173: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 174: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 175: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 176: syncvar 1 owner 0 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 
+                        message 0: 44 bytes
+                1 total messages pending
+        dest 177: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 178: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 179: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 180: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 181: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 182: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 183: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 184: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 185: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 186: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 187: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 188: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 189: syncvar -1 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 190: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 191: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 192: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 193: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 194: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 195: syncvar -1 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 196: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 197: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 198: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 199: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 200: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 201: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 202: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 203: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 204: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 205: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 206: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 207: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 208: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 209: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 211: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 212: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 213: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 215: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 216: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 217: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 218: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 219: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 220: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 221: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 223: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 224: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 227: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 228: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 229: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 230: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 232: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 233: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 234: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 235: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 236: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 237: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 238: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 240: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 241: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 242: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 245: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 247: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 248: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 250: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 251: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 252: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 253: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 254: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 255: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 256: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 257: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 258: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 259: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 260: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 261: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 262: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 263: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 264: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 265: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 266: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 267: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 268: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 269: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 270: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 271: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 272: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 273: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 274: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 275: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 276: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 277: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 278: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 279: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 280: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 281: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 282: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 283: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 284: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 285: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 286: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 287: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 288: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 289: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 290: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 292: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 293: syncvar 0 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 295: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 296: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 297: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 298: syncvar -1 owner 1 last owner 1 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+        dest 299: syncvar 0 owner 1 last owner 0 waiter 0 lock 1 owner 0 last owner 1 waiter 0 ; no messages
+Memory allocation statistics for arena 0x76be7014:
+
+bkt sizes (bytes):       8     16     32     64    128    256    512   1024
+free entries:          512    256    253     62     32     48      8     16
+used entries:            0      0      3      2      0      0      0      0
+allocated bytes:         0      0     96    128      0      0      0      0
+
+Total in use: 224, total free: 57120, total allocated: 57344
+arena overhead: 256, above arena break: 1969900
+[0] dest 4 : owner 1
+[1] dest 53 : owner 2
+[2] dest 177 : owner 3
+[3] dest 78 : owner 5
+[4] dest 32 : owner 6
+[5] dest 42 : owner 7
+[6] dest 48 : owner 8
+[7] dest 39 : owner 9
+[8] dest 44 : owner 10
+[9] dest 61 : owner 11
+[10] dest 52 : owner 12
+[11] dest 82 : owner 13
+[12] dest 58 : owner 14
+[13] dest 63 : owner 15
+[14] dest 282 : owner 16
+[15] dest 55 : owner 17
+[16] dest 70 : owner 18
+[17] dest 36 : owner 19
+[18] dest 298 : owner 20
+[19] dest 11 : owner 21
+[20] dest 8 : owner 22
+[21] dest 46 : owner 23
+[22] dest 19 : owner 24
+[23] dest 279 : owner 25
+[24] dest 268 : owner 26
+[25] dest 296 : owner 27
+[26] dest 22 : owner 28
+[27] dest 29 : owner 29
+[28] dest 276 : owner 30
+[29] dest 287 : owner 31
+[30] dest 2 : owner 32
+[31] dest 273 : owner 33
+[32] dest 270 : owner 34
+[33] dest 15 : owner 35
+[34] dest 290 : owner 36
+[35] dest 194 : owner 37
+[36] dest 203 : owner 38
+[37] dest 172 : owner 39
+[38] dest 174 : owner 40
+[39] dest 155 : owner 41
+[40] dest 149 : owner 42
+[41] dest 151 : owner 43
+[42] dest 161 : owner 44
+[43] dest 166 : owner 45
+[44] dest 158 : owner 46
+[45] dest 143 : owner 47
+[46] dest 140 : owner 48
+[47] dest 179 : owner 50
+[48] dest 180 : owner 51
+[49] dest 183 : owner 52
+[50] dest 176 : owner 53
+[51] dest 181 : owner 59
+[52] dest 280 : owner 60
+[53] dest 189 : owner 61
+[54] dest 201 : owner 62
+[55] dest 197 : owner 63
+[56] dest 185 : owner 64
+[57] dest 195 : owner 68
+[58] dest 3 : owner 3077
+[59] dest 1 : owner 3084
+[60] dest 0 : owner 3085
+[61] dest 7 : owner 3086
+[62] dest 13 : owner 3096
+[63] dest 136 : owner 3107
+[64] dest 137 : owner 3108
+[65] dest 139 : owner 3110
+[66] dest 138 : owner 3111
+[67] dest 134 : owner 3114
+[68] dest 141 : owner 3115
+[69] dest 147 : owner 3117
+[70] dest 5 : owner 3118
+[71] dest 289 : owner 8193
+mainMenu> 
+resetCountersPerAllPorts
+IS_COMMAND_ERROR(commandIndex)=1
+Error: Command not found.
+mainMenu> 
+system/l2sw/extswitch StatisticsPerPort 1
+Welcome to backbone L2switch cli menu
+Error: Too many parameters.
+mainMenu> 
+system/l2sw/extswitch StatisticsPerPort 2
+system/l2sw/extswitch StatisticsPerPort 2
+Welcome to backbone L2switch cli menu
+Error: Too many parameters.
+mainMenu> 
+system/l2sw/extswitch StatisticsPerPort 3
+Welcome to backbone L2switch cli menu
+Error: Too many parameters.
+mainMenu> 
+system/l2sw/extswitch StatisticsPerPort 4
+Welcome to backbone L2switch cli menu
+Error: Too many parameters.
+mainMenu> 
+system/pp/brief
+system/pp/brief
+
+PPDSP Counters:
+===============
+rx_pkts                 = 1019853
+pkts_frwrd_to_cpdsp1    = 1019853
+not_enough_descriptors  = 0
+
+CPDSP1 Counters:
+===============
+rx_pkts                 = 1019853
+lut1_search_attempts    = 1019853
+lut1_matches            = 60604
+pkts_frwrd_to_cpdsp2    = 1019853
+
+CPDSP2 Counters:
+===============
+rx_pkts                 = 1019853
+lut2_search_attempts    = 60604
+lut2_matches            = 717
+pkts_frwrd_to_mpdsp     = 1019853
+synch_timeout_events    = 0
+reassembly_db_full      = 0
+reassembly_db_timeout   = 0
+
+MPDSP Counters:
+==============
+rx_pkts                 = 1019853
+ipv4_rx_pkts            = 105
+ipv6_rx_pkts            = 0
+frwrd_to_host           = 1019748
+frwrd_to_qpdsp          = 105
+frwrd_to_synch_q        = 0
+discards                = 0
+synchq_overflow_events  = 0
+
+PrxPDSP Counters:
+==============
+popped_from_In_queues   = 592469
+forward_to_L2switch     = 592469
+from_L2switch           = 213768
+pushed_to_Prefetcher    = 213768
+Not_enough_buffers      = 0
+Not_enough_Descriptors  = 0
+pktsToSmallForPadding   = 0
+
+VPID index=00, handle=25: Rx=         0, Tx=         0
+VPID index=01, handle=26: Rx=         0, Tx=       105
+VPID index=02, handle=27: Rx=         0, Tx=         0
+VPID index=03, handle=28: Rx=         0, Tx=         0
+VPID index=04, handle=29: Rx=         0, Tx=         0
+VPID index=05, handle=30: Rx=         0, Tx=         0
+VPID index=06, handle=31: Rx=       105, Tx=         0
+SESSION index=0, handle=2001: Fwd=0
+SESSION index=1, handle=1857: Fwd=0
+SESSION index=2, handle=1984: Fwd=0
+SESSION index=3, handle=1851: Fwd=0
+SESSION index=4, handle=1941: Fwd=0
+SESSION index=5, handle=1955: Fwd=0
+SESSION index=6, handle=1951: Fwd=0
+SESSION index=7, handle=1973: Fwd=0
+SESSION index=8, handle=1980: Fwd=0
+SESSION index=9, handle=1868: Fwd=0
+SESSION index=10, handle=1902: Fwd=0
+SESSION index=11, handle=1891: Fwd=0
+SESSION index=12, handle=1985: Fwd=0
+SESSION index=13, handle=2003: Fwd=0
+SESSION index=14, handle=2007: Fwd=0
+SESSION index=15, handle=2008: Fwd=0
+SESSION index=16, handle=2016: Fwd=0
+SESSION index=17, handle=2018: Fwd=0
+SESSION index=18, handle=2023: Fwd=0
+SESSION index=19, handle=1888: Fwd=0
+SESSION index=20, handle=1898: Fwd=0
+SESSION index=21, handle=1956: Fwd=0
+SESSION index=22, handle=1946: Fwd=0
+SESSION index=23, handle=2017: Fwd=0
+SESSION index=24, handle=2029: Fwd=0
+SESSION index=25, handle=1993: Fwd=0
+SESSION index=26, handle=1996: Fwd=0
+SESSION index=27, handle=1918: Fwd=0
+SESSION index=28, handle=1971: Fwd=0
+SESSION index=29, handle=1970: Fwd=0
+SESSION index=30, handle=1999: Fwd=0
+SESSION index=31, handle=2015: Fwd=0
+SESSION index=32, handle=1881: Fwd=0
+SESSION index=33, handle=1908: Fwd=0
+SESSION index=34, handle=1912: Fwd=0
+SESSION index=35, handle=1917: Fwd=0
+SESSION index=36, handle=1931: Fwd=0
+SESSION index=37, handle=1933: Fwd=0
+SESSION index=38, handle=1940: Fwd=0
+SESSION index=39, handle=1943: Fwd=0
+SESSION index=40, handle=1948: Fwd=0
+SESSION index=41, handle=1969: Fwd=0
+SESSION index=42, handle=2005: Fwd=0
+SESSION index=43, handle=1928: Fwd=0
+SESSION index=44, handle=1935: Fwd=0
+SESSION index=45, handle=1942: Fwd=0
+SESSION index=46, handle=2009: Fwd=0
+SESSION index=47, handle=1927: Fwd=0
+SESSION index=48, handle=2004: Fwd=0
+SESSION index=49, handle=2028: Fwd=0
+SESSION index=50, handle=1877: Fwd=0
+SESSION index=51, handle=1899: Fwd=0
+SESSION index=52, handle=1913: Fwd=0
+SESSION index=53, handle=1915: Fwd=0
+SESSION index=54, handle=1922: Fwd=0
+SESSION index=55, handle=1944: Fwd=0
+SESSION index=56, handle=1896: Fwd=0
+SESSION index=57, handle=1909: Fwd=0
+SESSION index=58, handle=1880: Fwd=0
+SESSION index=59, handle=1929: Fwd=0
+SESSION index=60, handle=1958: Fwd=0
+SESSION index=61, handle=1978: Fwd=0
+SESSION index=62, handle=2030: Fwd=0
+SESSION index=63, handle=1910: Fwd=0
+SESSION index=64, handle=1968: Fwd=0
+SESSION index=65, handle=1906: Fwd=0
+SESSION index=66, handle=1936: Fwd=0
+SESSION index=67, handle=1966: Fwd=0
+SESSION index=68, handle=1967: Fwd=0
+SESSION index=69, handle=1945: Fwd=0
+SESSION index=70, handle=2013: Fwd=0
+SESSION index=71, handle=2025: Fwd=0
+SESSION index=72, handle=2027: Fwd=0
+SESSION index=73, handle=1982: Fwd=0
+SESSION index=74, handle=1904: Fwd=0
+SESSION index=75, handle=1991: Fwd=0
+SESSION index=76, handle=1974: Fwd=0
+SESSION index=77, handle=2019: Fwd=0
+SESSION index=78, handle=2022: Fwd=0
+SESSION index=79, handle=1873: Fwd=0
+SESSION index=80, handle=1926: Fwd=0
+SESSION index=81, handle=1938: Fwd=0
+SESSION index=82, handle=1988: Fwd=0
+SESSION index=83, handle=1864: Fwd=1
+SESSION index=84, handle=2024: Fwd=2
+SESSION index=85, handle=1897: Fwd=0
+SESSION index=86, handle=1934: Fwd=0
+SESSION index=87, handle=1950: Fwd=0
+SESSION index=88, handle=1964: Fwd=0
+SESSION index=89, handle=1983: Fwd=0
+SESSION index=90, handle=1987: Fwd=0
+SESSION index=91, handle=1916: Fwd=0
+SESSION index=92, handle=2020: Fwd=0
+SESSION index=93, handle=1911: Fwd=0
+SESSION index=94, handle=1887: Fwd=0
+SESSION index=95, handle=2012: Fwd=0
+SESSION index=96, handle=1863: Fwd=0
+SESSION index=97, handle=1937: Fwd=0
+SESSION index=98, handle=1952: Fwd=0
+SESSION index=99, handle=1979: Fwd=0
+SESSION index=100, handle=1889: Fwd=0
+SESSION index=101, handle=1900: Fwd=0
+SESSION index=102, handle=1921: Fwd=0
+SESSION index=103, handle=1949: Fwd=0
+SESSION index=104, handle=1957: Fwd=0
+SESSION index=105, handle=1960: Fwd=0
+SESSION index=106, handle=1961: Fwd=0
+SESSION index=107, handle=1923: Fwd=0
+SESSION index=108, handle=1963: Fwd=0
+SESSION index=109, handle=1876: Fwd=0
+SESSION index=110, handle=1895: Fwd=0
+SESSION index=111, handle=1901: Fwd=0
+SESSION index=112, handle=1954: Fwd=0
+SESSION index=113, handle=1998: Fwd=0
+SESSION index=114, handle=2026: Fwd=0
+SESSION index=115, handle=1962: Fwd=0
+SESSION index=116, handle=1994: Fwd=0
+SESSION index=117, handle=2021: Fwd=0
+SESSION index=118, handle=2006: Fwd=0
+SESSION index=119, handle=2010: Fwd=0
+SESSION index=120, handle=2031: Fwd=0
+SESSION index=121, handle=1965: Fwd=0
+SESSION index=122, handle=1924: Fwd=0
+SESSION index=123, handle=1975: Fwd=0
+SESSION index=124, handle=2011: Fwd=0
+SESSION index=125, handle=1981: Fwd=0
+SESSION index=126, handle=1990: Fwd=0
+SESSION index=127, handle=1986: Fwd=0
+SESSION index=128, handle=1869: Fwd=0
+SESSION index=129, handle=1992: Fwd=0
+
+mainMenu> 
+system/pp/ddhStats
+system/pp/ddhStats
+mainMenu> 
+system/pp/devs
+system/pp/devs
+   /dev/l2sd0.4093: vpid=27 pid=0 
+-----------------------------------------
+Rx Unicast   Packets: 0
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 0
+Rx Discard          : 0
+Tx Unicast   Packets: 0
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 0
+Tx Errors           : 0
+Tx Discards         : 0
+
+   /dev/cni0: vpid=26 pid=6 
+-----------------------------------------
+Rx Unicast   Packets: 0
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 0
+Rx Discard          : 0
+Tx Unicast   Packets: 105
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 12563
+Tx Errors           : 0
+Tx Discards         : 0
+
+   /dev/l2sd0.2: vpid=31 pid=0 
+-----------------------------------------
+Rx Unicast   Packets: 105
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 12563
+Rx Discard          : 0
+Tx Unicast   Packets: 0
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 0
+Tx Errors           : 0
+Tx Discards         : 0
+
+   /dev/l2sd0.3: vpid=30 pid=0 
+-----------------------------------------
+Rx Unicast   Packets: 0
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 0
+Rx Discard          : 0
+Tx Unicast   Packets: 0
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 0
+Tx Errors           : 0
+Tx Discards         : 0
+
+   /dev/l2sd0.4: vpid=29 pid=0 
+-----------------------------------------
+Rx Unicast   Packets: 0
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 0
+Rx Discard          : 0
+Tx Unicast   Packets: 0
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 0
+Tx Errors           : 0
+Tx Discards         : 0
+
+   /dev/l2sd0.5: vpid=28 pid=0 
+-----------------------------------------
+Rx Unicast   Packets: 0
+Rx Broadcast Packets: 0
+Rx Multicast Packets: 0
+Rx Bytes            : 0
+Rx Discard          : 0
+Tx Unicast   Packets: 0
+Tx Broadcast Packets: 0
+Tx Multicast Packets: 0
+Tx Bytes            : 0
+Tx Errors           : 0
+Tx Discards         : 0
+
+: Fwd=0
+SESSION index=56, handle=1896: Fwd=0
+SESSION index=57, handle=1909: Fwd=0
+SESSION index=58, handle=1880: Fwd=0
+SESSION index=59, handle=1929: Fwd=0
+SESSION index=60, handle=1958: Fwd=0
+SESSION index=61, handle=1978: Fwd=0
+SESSION index=62, handle=2030: Fwd=0
+SESSION index=63, handle=1910: Fwd=0
+SESSION index=64, handle=1968: Fwd=0
+SESSION index=65, handle=1906: Fwd=0
+SESSION index=66, handle=1936: Fwd=0
+SESSION index=67, handle=1966: Fwd=0
+SESSION index=68, handle=1967: Fwd=0
+SESSION index=69, handle=1945: Fwd=0
+SESSION index=70, handle=2013: Fwd=0
+SESSION index=71, handle=2025: Fwd=0
+SESSION index=72, handle=2027: Fwd=0
+SESSION index=73, handle=1982: Fwd=0
+SESSION index=74, handle=1904: Fwd=0
+SESSION index=75, handle=1991: Fwd=0
+SESSION index=76, handle=1974: Fwd=0
+SESSION index=77, handle=2019: Fwd=0
+SESSION index=78, handle=2022: Fwd=0
+SESSION index=79, handle=1873: Fwd=0
+SESSION index=80, handle=1926: Fwd=0
+SESSION index=81, handle=1938: Fwd=0
+SESSION index=82, handle=1988: Fwd=0
+SESSION index=83, handle=1864: Fwd=1
+SESSION index=84, handle=2024: Fwd=2
+SESSION index=85, handle=1897: Fwd=0
+SESSION index=86, handle=1934: Fwd=0
+SESSION index=87, handle=1950: Fwd=0
+SESSION index=88, handle=1964: Fwd=0
+SESSION index=89, handle=1983: Fwd=0
+SESSION index=90, handle=1987: Fwd=0
+SESSION index=91, handle=1916: Fwd=0
+SESSION index=92, handle=2020: Fwd=0
+SESSION index=93, handle=1911: Fwd=0
+SESSION index=94, handle=1887: Fwd=0
+SESSION index=95, handle=2012: Fwd=0
+SESSION index=96, handle=1863: Fwd=0
+SESSION index=97, handle=1937: Fwd=0
+SESSION index=98, handle=1952: Fwd=0
+SESSION index=99, handle=1979: Fwd=0
+SESSION index=100, handle=1889: Fwd=0
+SESSION index=101, handle=1900: Fwd=0
+SESSION index=102, handle=1921: Fwd=0
+SESSION index=103, handle=1949: Fwd=0
+SESSION index=104, handle=1957: Fwd=0
+SESSION index=105, handle=1960: Fwd=0
+SESSION index=106, handle=1961: Fw~φ$v÷╚@ION mainMenu> 
+system/pp/session
+system/pp/session
+1849 [1851-1852] [1857-1859] [1863-1864] [1867-1869] [1871-1873] [1876-1878] [1880-1881] [1885-1889] 
+[1891-1892] [1895-1904] 1906 [1908-1913] [1915-1918] [1921-1931] [1933-1938] [1940-1946] [1948-1952] 
+[1954-1958] [1960-1971] [1973-1975] [1978-1994] [1996-1999] 2001 [2003-2013] [2015-2031] 
+Total matching sessions: 146
+mainMenu> 
+.
+.
+
+system/pp/stats
+mainMenu> 
+shell
+Password:
+.
+
+
+Exiting to shell. Type "exit" to return back to CLI
+
+
+BusyBox v1.22.1 (2020-09-17 18:16:18 CST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+# 
+
+cat ./proc/uptime
+175378.35 109632.71
+# 
+
+arp -n
+Address                  HWtype  HWaddress           Flags Mask            Iface
+192.168.0.86             ether   78:d2:94:a7:33:88   C     *               l2sd0.2
+192.168.143.248          ether   8c:6d:77:eb:04:72   C     *               erouter0
+192.168.0.145            ether   50:3e:aa:d3:8d:74   C     *               l2sd0.2
+192.168.143.249          ether   f4:28:53:1e:b2:73   C     *               wan0
+192.168.143.248          ether   8c:6d:77:eb:04:72   C     *               wan0
+192.168.254.254          ether   bc:14:01:00:00:80   C     *               l2sd0.4093
+192.168.0.197            ether   00:12:0e:fd:6f:b8   C     *               l2sd0.2
+192.168.143.249          ether   f4:28:53:1e:b2:73   C     *               erouter0
+192.168.72.25                    (incomplete)              *               wan0
+# 
+cat /var/run/landhcps0.leases
+50:3e:aa:d3:8d:74 192.168.0.145 604683 780062 D70-Jason-P330
+00:12:0e:fd:6f:b8 192.168.0.197 597624 773003 D70-Jason-P330
+78:d2:94:a7:33:88 192.168.0.86 604784 780163 D70-Jason-P330
+# 
+.
+
+dmesg
+<4>SCB Zombie Connections                      : 0
+<4>SCB Hash Collisions                         : 0
+<4>HIL  State is                               : Enabled
+<4>PP   State is                               : Active
+<4>TDOX State is                               : Enabled
+<4>DiscardOOO State is                         : Enabled
+<4>QoS  State is                               : Enabled
+<4>Bypassed pkts                               : 12365
+<4>Other    pkts                               : 1357935
+<4>Fail Egress extract pkts                    : 0
+<4>Fail Egress Tcp SYN pkts                    : 18476
+<4>Fail Egress SCB pkts                        : 0
+<4>Fail Egress session inteligance pkts        : 18476
+<4>
+<4>|                   |  Ingress   |   Egress   |
+<4>|-------------------|------------|------------|
+<4>| pkts              |    1028096 |      40200 |
+<4>| udp pkts          |     891155 |      21011 |
+<4>| gre udp pkts      |          0 |          0 |
+<4>| dslite udp pkts   |          0 |          0 |
+<4>| tcp pkts          |      91019 |      18476 |
+<4>| gre tcp pkts      |          0 |          0 |
+<4>| dslite tcp pkts   |          0 |          0 |
+<4>| ipsec pkts        |          0 |          0 |
+<4>| gre ipsec pkts    |          0 |          0 |
+<4>| dslite ipsec pkts |          0 |          0 |
+<4>| gre gre pkts      |          0 |          0 |
+<4>|-------------------|------------|------------|
+<4>
+<4>Null     pkts                               : 6298
+<4>Total Sessions                              : 20230
+<4>Total Errors                                : 0
+<4>Global Timeout                              : 1 sec
+<4>Extended Timeout                            : Enabled
+<4>Max Sessions For Extended Timeout           : 128 
+<4>Reserved LUT1 Keys for voice sessions       : 8
+<4>Reserved voice sessions                     : 16
+<4>Active PIDs                                 : 2
+<4>Active VPIDs                                : 7
+<4>Active LUT1 keys                            : 2
+<4>Max active LUT1 keys                        : 4
+<4>Active sessions                             : 132
+<4>Active US sessions                          : 81
+<4>Active drop sessions                        : 0
+<4>Active multi drop sessions                  : 0
+<4>Max active sessions                         : 192
+<4>|    LUT1 utilization          |       LUT2 utilization        |
+<4>|------------------------------|-------------------------------|
+<4>| range [  0 to  31] :    2604 | range [   0 to  255] :  20230 |
+<4>| range [ 32 to  63] :       0 | range [ 256 to  511] :      0 |
+<4>| range [ 64 to  95] :       0 | range [ 512 to  767] :      0 |
+<4>| range [ 96 to 127] :       0 | range [ 768 to 1023] :      0 |
+<4>| range [128 to 159] :       0 | range [1024 to 1279] :      0 |
+<4>| range [160 to 191] :       0 | range [1280 to 1535] :      0 |
+<4>| range [192 to 223] :       0 | range [1536 to 1791] :      0 |
+<4>| range [224 to 255] :       0 | range [1792 to 2047] :      0 |
+<4>| LUT1 starvation    :       0 | LUT2 starvation      :      0 |
+<4>|------------------------------|-------------------------------|
+<4>
+<4>QoS queues statistics:
+<4> queue | forwarded  | discarded  | owner
+<4>-------+------------+------------+--------------
+<4>     0 |     731610 |          0 | PAL_CPPI41_SR_CLUSTER0_DOCSIS_TX_BE0_HIGH_QPDSP_QOS_Q_NUM
+<4>     1 |      75250 |          0 | PAL_CPPI41_SR_CLUSTER0_DOCSIS_TX_BE0_LOW_QPDSP_QOS_Q_NUM
+<4>    35 |     591379 |          0 | PAL_CPPI41_SR_CLUSTER16_L2SW_DATA0_LOW_QPDSP_QOS_Q_NUM
+<4>    44 |      74837 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_LOW_QPDSP_QOS_Q_NUM
+<4>    45 |      12092 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_MED_LOW_QPDSP_QOS_Q_NUM
+<4>    46 |     718263 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_MED_QPDSP_QOS_Q_NUM
+<4>    49 |      88688 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_LOW_QPDSP_QOS_Q_NUM
+<4>    50 |       5719 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_MED_QPDSP_QOS_Q_NUM
+<4>    51 |     117450 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_HIGH_QPDSP_QOS_Q_NUM
+<4>-------+------------+------------+--------------
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28222 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28222 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28223 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28223 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28225 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28225 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>socDriverRelease: ref 0
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=64 TOS=0x00 PREC=0x00 TTL=128 ID=28231 PROTO=UDP SPT=8235 DPT=8235 LEN=44 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=64 TOS=0x00 PREC=0x00 TTL=128 ID=28231 PROTO=UDP SPT=8235 DPT=8235 LEN=44 
+<6>socDriverOpen: ref 1
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28232 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28232 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28233 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28234 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28233 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28234 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28235 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28236 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28235 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28236 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28241 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28241 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28250 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: RF External]IN=wan0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28252 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28250 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<6>[Firewall: WAN External]IN=erouter0 OUT= MAC=ff:ff:ff:ff:ff:ff:f4:28:53:1e:b2:73:08:00 SRC=192.168.143.249 DST=192.168.143.255 LEN=78 TOS=0x00 PREC=0x00 TTL=128 ID=28252 PROTO=UDP SPT=137 DPT=137 LEN=58 
+<4>Defensive Mode                              : External
+<4>Defensive State                             : 0
+<4>L2Classification                            : Disabled
+<4>MultiDrop                                   : Disabled
+<4>Smart Prioritization                        : Disabled
+<4>SCB Packet Threshold                        : 10
+<4>SCB Connections Threshold                   : 500
+<4>SCB Active Connections                      : 0
+<4>SCB Max Active Connections                  : 0
+<4>SCB Zombie Connections                      : 0
+<4>SCB Hash Collisions                         : 0
+<4>HIL  State is                               : Enabled
+<4>PP   State is                               : Active
+<4>TDOX State is                               : Enabled
+<4>DiscardOOO State is                         : Enabled
+<4>QoS  State is                               : Enabled
+<4>Bypassed pkts                               : 12441
+<4>Other    pkts                               : 1359654
+<4>Fail Egress extract pkts                    : 0
+<4>Fail Egress Tcp SYN pkts                    : 18746
+<4>Fail Egress SCB pkts                        : 0
+<4>Fail Egress session inteligance pkts        : 18746
+<4>
+<4>|                   |  Ingress   |   Egress   |
+<4>|-------------------|------------|------------|
+<4>| pkts              |    1030847 |      40796 |
+<4>| udp pkts          |     892920 |      21332 |
+<4>| gre udp pkts      |          0 |          0 |
+<4>| dslite udp pkts   |          0 |          0 |
+<4>| tcp pkts          |      91911 |      18746 |
+<4>| gre tcp pkts      |          0 |          0 |
+<4>| dslite tcp pkts   |          0 |          0 |
+<4>| ipsec pkts        |          0 |          0 |
+<4>| gre ipsec pkts    |          0 |          0 |
+<4>| dslite ipsec pkts |          0 |          0 |
+<4>| gre gre pkts      |          0 |          0 |
+<4>|-------------------|------------|------------|
+<4>
+<4>Null     pkts                               : 6300
+<4>Total Sessions                              : 20524
+<4>Total Errors                                : 0
+<4>Global Timeout                              : 1 sec
+<4>Extended Timeout                            : Enabled
+<4>Max Sessions For Extended Timeout           : 128 
+<4>Reserved LUT1 Keys for voice sessions       : 8
+<4>Reserved voice sessions                     : 16
+<4>Active PIDs                                 : 2
+<4>Active VPIDs                                : 7
+<4>Active LUT1 keys                            : 3
+<4>Max active LUT1 keys                        : 4
+<4>Active sessions                             : 152
+<4>Active US sessions                          : 115
+<4>Active drop sessions                        : 0
+<4>Active multi drop sessions                  : 0
+<4>Max active sessions                         : 192
+<4>|    LUT1 utilization          |       LUT2 utilization        |
+<4>|------------------------------|-------------------------------|
+<4>| range [  0 to  31] :    2610 | range [   0 to  255] :  20524 |
+<4>| range [ 32 to  63] :       0 | range [ 256 to  511] :      0 |
+<4>| range [ 64 to  95] :       0 | range [ 512 to  767] :      0 |
+<4>| range [ 96 to 127] :       0 | range [ 768 to 1023] :      0 |
+<4>| range [128 to 159] :       0 | range [1024 to 1279] :      0 |
+<4>| range [160 to 191] :       0 | range [1280 to 1535] :      0 |
+<4>| range [192 to 223] :       0 | range [1536 to 1791] :      0 |
+<4>| range [224 to 255] :       0 | range [1792 to 2047] :      0 |
+<4>| LUT1 starvation    :       0 | LUT2 starvation      :      0 |
+<4>|------------------------------|-------------------------------|
+<4>
+<4>QoS queues statistics:
+<4> queue | forwarded  | discarded  | owner
+<4>-------+------------+------------+--------------
+<4>     0 |     731927 |          0 | PAL_CPPI41_SR_CLUSTER0_DOCSIS_TX_BE0_HIGH_QPDSP_QOS_Q_NUM
+<4>     1 |      76155 |          0 | PAL_CPPI41_SR_CLUSTER0_DOCSIS_TX_BE0_LOW_QPDSP_QOS_Q_NUM
+<4>    35 |     592501 |          0 | PAL_CPPI41_SR_CLUSTER16_L2SW_DATA0_LOW_QPDSP_QOS_Q_NUM
+<4>    44 |      75427 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_LOW_QPDSP_QOS_Q_NUM
+<4>    45 |      12101 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_MED_LOW_QPDSP_QOS_Q_NUM
+<4>    46 |     718574 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_DOCSIS_MED_QPDSP_QOS_Q_NUM
+<4>    49 |      89262 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_LOW_QPDSP_QOS_Q_NUM
+<4>    50 |       5740 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_MED_QPDSP_QOS_Q_NUM
+<4>    51 |     118714 |          0 | PAL_CPPI41_SR_CLUSTER19_HOST_L2SW_HIGH_QPDSP_QOS_Q_NUM
+<4>-------+------------+------------+--------------
+# 
+iptables -nvL
+/bin/sh: iptables: not found
+# 
+iptables -nvL -t nat
+/bin/sh: iptables: not found
+# 
+iptables -nvL -t mangle
+/bin/sh: iptables: not found
+# 
+
+echo "uptime" | nc 192.168.254.254 54321
+ 15:23:38 up 2 days, 43 min,  0 users,  load average: 2.30, 2.17, 2.15
+# 
+
+echo "echo 7 > /proc/sys/kernel/printk" | nc 192.168.254.254 54321
+# 
+
+echo "echo 8 cdebug=0 > /proc/net/mtlk_log/debug" | nc 192.168.254.254 54321
+# 
+
+echo "iwconfig |grep wlan0.0" | nc 192.168.254.254 54321
+# 
+.
+
+echo "iwconfig |grep wlan2.0" | nc 192.168.254.254 54321
+# 
+
+echo "iwlist wlan0.0 channel" | nc 192.168.254.254 54321
+# 
+
+echo "iwlist wlan2.0 channel" | nc 192.168.254.254 54321
+# 
+cat /nvram/router.cfg
+SCRIi±usb_enable false
+console_mode enable
+um_auth_account_name admin msoadmin
+um_auth_account_password admin $1$vmtncybR$f9luMqgjbcm6WHstZEjE.1
+um_auth_account_enable admin true
+um_acl admin true
+um_acl_policy admin true
+um_auth_account_name user1 admin
+um_auth_account_password user1 $1$A1.IO7hj$ysuutQ5reiokYZKWOp8ix/
+um_auth_account_enable user1 true
+um_acl user1 true
+um_acl_policy user1 true
+um_acl_rule user1 default-user1 telnet|ssh|http|https lan none none true 
+um_auth_account_name user2 comadmin
+um_auth_account_password user2 $1$A1.IO7hj$L0vag9BsvpiFcwk6M54eR.
+um_auth_account_enable user2 false
+um_acl user2 true
+um_acl_policy user2 true
+um_acl_rule user2 default-user2 telnet|ssh|http|https lan none none false 
+um_auth_account_name user3 technician
+um_auth_account_password user3 $1$A1.IO7hj$TVBK5aK2/5WJCQ6zEmYX/1
+um_auth_account_enable user3 false
+um_acl user3 true
+um_acl_policy user3 true
+um_acl_rule user3 default-user3 telnet|ssh|http|https lan none none false 
+um_auth_pod_enable false
+um_auth_pod_seed htpodseed
+um_auth_pod_seed_encrypt false
+um_session_webstimeout 1800
+net_lan_enable ether0 true
+net_lan_ipv6_enable ether0 true
+net_lan_napt_enable ether0 true
+net_lan_ula_enable ether0 true
+net_lan_ula_prefix ether0 fd00:606c:63ad:73da::/64
+net_lan_addr ether0 private 192.168.0.1/24
+net_lan_bridge_enable ether0 false
+net_lan_dhcps_enable ether0 true
+net_lan_dhcps_pool_start ether0 192.168.0.10/24
+net_lan_dhcps_pool_end ether0 192.168.0.200/24
+net_lan_dhcps_leasetime ether0 604800
+net_lan_public_dhcps_enable ether0 1 false
+net_lan_public_dhcps_leasetime ether0 1 604800
+net_lan_dns_enable ether0 false
+net_lan_domain_enable ether0 true
+net_lan_domain_suffix ether0 hitronhub.home
+net_lan_domain_ipv6_enable ether0 false
+net_lan_ra_send_advert ether0 true
+net_lan_ra_interval_max ether0 4
+net_lan_ra_interval_min ether0 3
+net_lan_ra_managed ether0 true
+net_lan_ra_other_config ether0 true
+net_lan_ra_link_mtu ether0 0
+net_lan_ra_hop_limit ether0 64
+net_lan_ra_prefix_enable ether0 false
+net_lan_ra_prefix_onlink ether0 false
+net_lan_ra_prefix_autonomous ether0 false
+net_lan_ra_prefix_valid_lifetime ether0 0
+net_lan_ra_prefix_preferred_lifetime ether0 0
+net_lan_ra_dns_enable ether0 false
+net_lan_ra_rdnss_lifetime ether0 1200
+net_lan_dhcp6s_enable ether0 true
+net_lan_dhcp6s_rapid_commit ether0 false
+net_lan_dhcp6s_autoconfig ether0 true
+net_lan_dhcp6s_pool_start ether0 ::2
+net_lan_dhcp6s_pool_end ether0 ::ff:ff:ff:ff
+net_lan_igmp_proxy_enable ether0 true
+net_lan_mld_proxy_enable ether0 true
+net_lan_dns_proxy_enable ether0 true
+net_lan_enable mssid1 true
+net_lan_ipv6_enable mssid1 true
+net_lan_napt_enable mssid1 true
+net_lan_ula_enable mssid1 true
+net_lan_ula_prefix mssid1 fd00:606c:63ad:73e1::/64
+net_lan_addr mssid1 private 192.168.101.1/24
+net_lan_bridge_enable mssid1 false
+net_lan_dhcps_enable mssid1 true
+net_lan_dhcps_pool_start mssid1 192.168.101.10/24
+net_lan_dhcps_pool_end mssid1 192.168.101.200/24
+net_lan_dhcps_leasetime mssid1 604800
+net_lan_public_dhcps_enable mssid1 1 false
+net_lan_public_dhcps_leasetime mssid1 1 0
+net_lan_dns_enable mssid1 false
+net_lan_domain_enable mssid1 false
+net_lan_domain_ipv6_enable mssid1 false
+net_lan_ra_send_advert mssid1 true
+net_lan_ra_interval_max mssid1 4
+net_lan_ra_interval_min mssid1 3
+net_lan_ra_managed mssid1 true
+net_lan_ra_other_config mssid1 true
+net_lan_ra_link_mtu mssid1 0
+net_lan_ra_hop_limit mssid1 64
+net_lan_ra_prefix_enable mssid1 false
+net_lan_ra_prefix_onlink mssid1 false
+net_lan_ra_prefix_autonomous mssid1 false
+net_lan_ra_prefix_valid_lifetime mssid1 0
+net_lan_ra_prefix_preferred_lifetime mssid1 0
+net_lan_ra_dns_enable mssid1 false
+net_lan_ra_rdnss_lifetime mssid1 0
+net_lan_dhcp6s_enable mssid1 false
+net_lan_dhcp6s_rapid_commit mssid1 false
+net_lan_dhcp6s_autoconfig mssid1 false
+net_lan_igmp_proxy_enable mssid1 true
+net_lan_mld_proxy_enable mssid1 true
+net_lan_dns_proxy_enable mssid1 true
+net_lan_enable mssid2 true
+net_lan_ipv6_enable mssid2 true
+net_lan_napt_enable mssid2 true
+net_lan_ula_enable mssid2 true
+net_lan_ula_prefix mssid2 fd00:606c:63ad:73e2::/64
+net_lan_addr mssid2 private 192.168.102.1/24
+net_lan_bridge_enable mssid2 false
+net_lan_dhcps_enable mssid2 true
+net_lan_dhcps_pool_start mssid2 192.168.102.10/24
+net_lan_dhcps_pool_end mssid2 192.168.102.200/24
+net_lan_dhcps_leasetime mssid2 604800
+net_lan_public_dhcps_enable mssid2 1 false
+net_lan_public_dhcps_leasetime mssid2 1 0
+net_lan_dns_enable mssid2 false
+net_lan_domain_enable mssid2 false
+net_lan_domain_ipv6_enable mssid2 false
+net_lan_ra_send_advert mssid2 true
+net_lan_ra_interval_max mssid2 4
+net_lan_ra_interval_min mssid2 3
+net_lan_ra_managed mssid2 true
+net_lan_ra_other_config mssid2 true
+net_lan_ra_link_mtu mssid2 0
+net_lan_ra_hop_limit mssid2 64
+net_lan_ra_prefix_enable mssid2 false
+net_lan_ra_prefix_onlink mssid2 false
+net_lan_ra_prefix_autonomous mssid2 false
+net_lan_ra_prefix_valid_lifetime mssid2 0
+net_lan_ra_prefix_preferred_lifetime mssid2 0
+net_lan_ra_dns_enable mssid2 false
+net_lan_ra_rdnss_lifetime mssid2 0
+net_lan_dhcp6s_enable mssid2 false
+net_lan_dhcp6s_rapid_commit mssid2 false
+net_lan_dhcp6s_autoconfig mssid2 false
+net_lan_igmp_proxy_enable mssid2 true
+net_lan_mld_proxy_enable mssid2 true
+net_lan_dns_proxy_enable mssid2 true
+net_lan_enable mssid3 true
+net_lan_ipv6_enable mssid3 true
+net_lan_napt_enable mssid3 true
+net_lan_ula_enable mssid3 true
+net_lan_ula_prefix mssid3 fd00:606c:63ad:73e3::/64
+net_lan_addr mssid3 private 192.168.103.1/24
+net_lan_bridge_enable mssid3 false
+net_lan_dhcps_enable mssid3 true
+net_lan_dhcps_pool_start mssid3 192.168.103.10/24
+net_lan_dhcps_pool_end mssid3 192.168.103.200/24
+net_lan_dhcps_leasetime mssid3 604800
+net_lan_public_dhcps_enable mssid3 1 false
+net_lan_public_dhcps_leasetime mssid3 1 0
+net_lan_dns_enable mssid3 false
+net_lan_domain_enable mssid3 false
+net_lan_domain_ipv6_enable mssid3 false
+net_lan_ra_send_advert mssid3 true
+net_lan_ra_interval_max mssid3 4
+net_lan_ra_interval_min mssid3 3
+net_lan_ra_managed mssid3 true
+net_lan_ra_other_config mssid3 true
+net_lan_ra_link_mtu mssid3 0
+net_lan_ra_hop_limit mssid3 64
+net_lan_ra_prefix_enable mssid3 false
+net_lan_ra_prefix_onlink mssid3 false
+net_lan_ra_prefix_autonomous mssid3 false
+net_lan_ra_prefix_valid_lifetime mssid3 0
+net_lan_ra_prefix_preferred_lifetime mssid3 0
+net_lan_ra_dns_enable mssid3 false
+net_lan_ra_rdnss_lifetime mssid3 0
+net_lan_dhcp6s_enable mssid3 false
+net_lan_dhcp6s_rapid_commit mssid3 false
+net_lan_dhcp6s_autoconfig mssid3 false
+net_lan_igmp_proxy_enable mssid3 true
+net_lan_mld_proxy_enable mssid3 true
+net_lan_dns_proxy_enable mssid3 true
+net_wan_enable wan true
+net_wan_prov4_method wan dhcp
+net_wan_prov6_method wan dhcp
+net_wan_dhcp6_prefix_hint wan 0
+net_wan_dns_enable wan false
+net_wan_igmp_version wan 3
+net_wan_mld_version wan 2
+net_wan_enable dummy0 true
+net_wan_prov4_method dummy0 dhcp
+net_wan_prov6_method dummy0 dhcp
+net_wan_addr dummy0 alias3 192.168.254.253
+net_wan_dhcp6_prefix_hint dummy0 0
+net_wan_dns_enable dummy0 false
+net_wan_igmp_version dummy0 3
+net_wan_mld_version dummy0 2
+net_wan_iptnl_ping_count dummy0 3
+net_wan_iptnl_ping_interval dummy0 10
+router_init_mode ipv4
+wanif_init_mode dummy0 disable
+net_switch_bridge_enable 1 false
+net_switch_bridge_enable 2 false
+net_switch_bridge_enable 3 false
+net_switch_bridge_enable 4 false
+net_wan_dslite_enable true
+net_wan_dslite_dhcp_prior true
+net_wan_dslite_tcpmss 1420
+net_wan_dslite_frag_flag false
+net_wan_dslite_pcp_enable true
+net_wan_dslite_pcp_version 0
+net_wan_dslite_pcp_map_enable true
+net_wan_dslite_pcp_prefer_failure_enable false
+net_wan_dslite_pcp_disable_mode_type None
+net_wan_sixrd_enable true
+net_wan_sixrd_dhcp_prior true
+net_wan_sixrd_ip4_mask_len 0
+net_wan_sixrd_tcpmss 0
+net_wan_gre_enable true
+net_wan_gre_mode ipv4
+net_wan_gre_ttl 255
+net_wan_gre_tos 0
+net_wan_gre_pmtudisc true
+net_wan_gre_checksum false
+net_wan_gre_seqnum false
+net_wan_gre_key 0 false
+net_wan_gre_flowlabel 0
+net_wan_gre_encaplimit 0
+net_wan_gre_interface Erouter
+net_wan_gre_tcpmss 1360
+net_wan_gre_discover_type dnsSrv
+net_wan_gre_fqdn _gre._tcp.gretunnel.com
+net_wan_gre_dns_retry_timer 30
+net_wan_gre_ping_count 3
+net_wan_gre_ping_interval 60
+net_wan_gre_failover_threshold 3
+net_wan_gre_failure_interval 300
+net_lan_igmp_global_version 3
+net_lan_mld_global_version 2
+net_igmp_quick_leave_enable false
+net_mld_quick_leave_enable false
+net_lan_ip_passthrough_enable false
+net_restore_ignore false
+net_wan_dhcpinfo_bootfile 
+net_wan_dhcpinfo_bootfileurl 
+logger_module UTILS TRACE false false
+logger_module SHDB TRACE false false
+logger_module BOARD TRACE false false
+logger_module PFORM TRACE false false
+logger_module UM TRACE false false
+logger_module INIT TRACE false false
+logger_module PROV TRACE false false
+logger_module FIREWALL TRACE false false
+logger_module SERVICES TRACE false false
+logger_module HOTSPOT TRACE false false
+logger_module WIRELESS TRACE false false
+logger_module EVNET TRACE false false
+logger_module DRP TRACE false false
+logger_module UPNP TRACE false false
+logger_module WEBS TRACE false false
+logger_module CFG TRACE false false
+logger_module VPN TRACE false false
+logger_module AlertWarn TRACE false false
+logger_module ParentalCtl TRACE false false
+logger_module Firewall TRACE false false
+logger_time false
+logger_syslog_enable false
+fw_nat_enable true
+fw_nat_source 0
+fw_nat_alg_sip_enable false
+fw_nat_alg_h323_enable true
+fw_nat_alg_rtsp_enable true
+fw_nat_alg_ftp_enable true
+fw_nat_alg_tftp_enable true
+fw_nat_alg_pptp_enable true
+fw_nat_dmz_enable false
+fw_nat_port_forward_enable true
+fw_nat_ip2ip_enable false
+fw_nat_port_trigger_enable false
+fw_nat_loopback_enable true
+fw_filter_enable true
+fw_filter_ids_enable true
+fw_filter_rf_snmp_enable true
+fw_filter_rf_http_enable true
+fw_filter_rf_https_enable true
+fw_filter_rf_telnet_enable true
+fw_filter_rf_ssh_enable true
+fw_filter_dmz_enable false
+fw_filter_port_wan_enable true
+fw_filter_port_lan_enable false
+fw_filter_icmp_ext_ping_enable true
+fw_filter_cm_enable false
+fw_allow_cm_rule false none 0 NULL
+fw_filter_pc_enable false
+fw_filter_mac_enable false
+fw_filter_mac_mode false
+fw_filter_service_enable false
+fw_filter_content_enable false
+fw_filter_intservice_enable false
+fw_filter_pubip_enable true
+fw_filter_vpn_pass_pptp_enable ipv4-only
+fw_filter_vpn_pass_l2tp_enable ipv4-only
+fw_filter_vpn_pass_ipsec_enable ipv4-only
+fw_level ipv4 low
+fw_level_custom ipv4 http false
+fw_level_custom ipv4 icmp false
+fw_level_custom ipv4 p2p false
+fw_level_custom ipv4 ident false
+fw_level_custom ipv4 firewall false
+fw_level ipv6 low
+fw_level_custom ipv6 http false
+fw_level_custom ipv6 icmp false
+fw_level_custom ipv6 p2p false
+fw_level_custom ipv6 ident false
+fw_level_custom ipv6 firewall false
+net_wan_daemon_changed false
+fw_remote_management_enable ipv4 true
+fw_remote_management_rule ipv4 http 8080 false
+fw_remote_management_rule ipv4 https 8181 false
+fw_remote_management_rule ipv4 telnet 2323 false
+fw_remote_management_rule ipv4 ssh 22 false
+fw_remote_management_rule ipv4 snmp 161 false
+fw_remote_management_allow_all ipv4 true
+fw_remote_management_allow_all ipv4 true
+fw_local_management_enable ipv4 true
+fw_local_management_rule ipv4 http true
+fw_local_management_rule ipv4 https true
+fw_local_management_rule ipv4 telnet true
+fw_local_management_rule ipv4 ssh false
+fw_remote_management_enable ipv6 true
+fw_remote_management_rule ipv6 http 80 false
+fw_remote_management_rule ipv6 https 443 false
+fw_remote_management_rule ipv6 telnet 23 false
+fw_remote_management_rule ipv6 ssh 22 false
+fw_remote_management_rule ipv6 snmp 161 false
+fw_remote_management_allow_all ipv6 true
+fw_remote_management_allow_all ipv6 true
+fw_local_management_enable ipv6 true
+fw_local_management_rule ipv6 http true
+fw_local_management_rule ipv6 https true
+fw_local_management_rule ipv6 telnet true
+fw_local_management_rule ipv6 ssh false
+snmp_enable true
+snmp_enable_lan false
+snmp_enable_wan true
+webs_enable true
+webs_language admin en
+webs_language user1 en
+webs_language user2 en
+webs_language user3 en
+webs_skip_wizard true
+vm_gui_hidden true
+speedtest_gui_hidden true
+rip_gui_hidden true
+autocall_gui_hidden false
+calltransfer_gui_hidden false
+callhold_gui_hidden false
+callwait_gui_hidden false
+threewaycall_gui_hidden false
+wls_ssid_gui_hidden 1 1 false
+wls_ssid_gui_hidden 1 2 true
+wls_ssid_gui_hidden 1 3 true
+wls_ssid_gui_hidden 1 4 true
+wls_ssid_gui_hidden 2 1 false
+wls_ssid_gui_hidden 2 2 true
+wls_ssid_gui_hidden 2 3 true
+wls_ssid_gui_hidden 2 4 true
+wls_wps_gui_hidden false
+rgmode_gui_hidden true
+landns_gui_hidden true
+security_gui_hidden false
+alg_gui_hidden false
+docsisprov_gui_hidden false
+docsiswan_gui_hidden false
+docsisevent_gui_hidden false
+bridge_wls_gui_hidden false
+local_radio_status_gui_hidden true
+local_gui_mode 0
+hnap_enable true
+hnap_auth_username hnapadmin
+hnap_auth_password hnappass
+cm_snmpa_recive_port 161
+ddns_enable false
+ddns_period 10
+ddns_system 0
+ddns_server_name members.dyndns.org
+ddns_server_url /nic/update?
+ddns_ipser_name checkip.dyndns.org
+ddns_ipser_urls /
+telnet_enable true
+ssh_enable true
+cwmpd_mode 1
+cwmpd_enable false
+cwmpd_acsurl http://hitron.acs.clearaccess.com
+cwmpd_acsuser tr069
+cwmpd_acspasswd tr069
+cwmpd_netdevice erouter0
+cwmpd_perinfo_enable true
+cwmpd_AliasBase false
+cwmpd_perinfo_interval 600
+cwmpd_perinfo_time 0 
+cwmpd_ParameterKey HitronParamKey
+cwmpd_dftactnotethrottle 0
+cwmpd_stun_enable false
+cwmpd_stun_serverport 3478
+cwmpd_stun_maximumkeepaliveperiod 1000
+cwmpd_stun_minimumkeepaliveperiod 600
+cwmpd_stun_serveraddress stun.acs.clearaccess.com
+cwmpd_stun_username Hitron
+cwmpd_stun_password HitronStun
+hotspot_enable 1 false
+hotspot_insert_ssid_in_circuit  1 true
+hotspot_insert_mac_in_remote 1 true
+hotspot_ssid_enable 1 3 true
+hotspot_ssid_mode 1 3 greTunnel
+hotspot_ssid_vlan_enable 1 3 true
+hotspot_ssid_vlantag 1 3 4
+hotspot_ssid_enable 1 4 true
+hotspot_ssid_mode 1 4 greTunnel
+hotspot_ssid_vlan_enable 1 4 true
+hotspot_ssid_vlantag 1 4 5
+hotspot_ssid_enable 1 5 true
+hotspot_ssid_mode 1 5 greTunnel
+hotspot_ssid_vlan_enable 1 5 true
+hotspot_ssid_vlantag 1 5 6
+hotspot_ssid_enable 1 6 true
+hotspot_ssid_mode 1 6 greTunnel
+hotspot_ssid_vlan_enable 1 6 true
+hotspot_ssid_vlantag 1 6 7
+hotspot_enable 2 false
+hotspot_insert_ssid_in_circuit  2 true
+hotspot_insert_mac_in_remote 2 true
+hotspot_ssid_enable 2 3 true
+hotspot_ssid_mode 2 3 greTunnel
+hotspot_ssid_vlan_enable 2 3 true
+hotspot_ssid_vlantag 2 3 4
+hotspot_ssid_enable 2 4 true
+hotspot_ssid_mode 2 4 greTunnel
+hotspot_ssid_vlan_enable 2 4 true
+hotspot_ssid_vlantag 2 4 5
+hotspot_ssid_enable 2 5 true
+hotspot_ssid_mode 2 5 greTunnel
+hotspot_ssid_vlan_enable 2 5 true
+hotspot_ssid_vlantag 2 5 6
+hotspot_ssid_enable 2 6 true
+hotspot_ssid_mode 2 6 greTunnel
+hotspot_ssid_vlan_enable 2 6 true
+hotspot_ssid_vlantag 2 6 7
+wls_enable 1 true
+wls_radio_phymode 1 11G/N
+wireless_OP_mode 1 3
+wireless_user_control 1 1
+wls_radio_txpower 1 100
+wls_radio_countrycode 1 158
+wls_radio_bandwidth 1 0
+wls_radio_channel 1 0
+wls_radio_ccaed_thresvalue 1 -75
+wls_radio_dfsblock 1 false
+wls_radio_coexistence 1 true
+wls_radio_beacon 1 100
+wls_radio_shortretrylimit 1 0
+wls_radio_longRetrylimit 1 0
+wls_radio_outpower 1 0
+wls_radio_rate 1 0
+wls_radio_manrate 1 0
+wls_bandsteering_enable 1 true
+wls_fastroaming_enable 1 false
+wls_radio_dcs_enable 1 false
+wls_radio_vow_enable 1 false
+wls_radio_acs_mode 1 1
+wls_auto_acl_enable 1 false
+wls_auto_acl_privssid 1 1
+wls_auto_acl_pubssid 1 0
+wls_radius_interface 1 erouter0
+wls_radio_atf_algorithm_type 1 0
+wls_radio_atf_strick_sched 1 false
+wls_radio_atf_ssid_level 1 0
+wls_ssid_enable 1 1 true
+wls_ssid_hidden 1 1 false
+wls_ssid_wmm_capable 1 1 true
+wls_ssid_name 1 1 HITRON-73D8-5G
+wls_ssid_name_hex_str 1 1 484954524F4E2D373344382D3547
+wls_ssid_def_name 1 1 HITRON-73D8-5G
+wls_ssid_auth_mode 1 1 wpa2psk
+wls_ssid_encrypt_type 1 1 AES
+wls_ssid_wep_key_id 1 1 0
+wls_ssid_wep_key 1 1 1 ascii 89383
+wls_ssid_wpa_psk 1 1 B51213037142
+wls_ssid_wep_rekeying 1 1 3600
+wls_ssid_eap_reauth_period 1 1 0
+wls_ssid_htcap_req 1 1 2
+wls_ssid_radius_interface 1 1 erouter0
+wls_wps_enable 1 1 true
+wls_wps_method 1 1 0
+wls_wps_ap_pin 1 1 00000000
+wls_ssid_igmp_snooping 1 1 false
+wls_ssid_rtsthresh 1 1 0
+wls_ssid_fragthresh 1 1 0
+wls_ssid_dtim 1 1 1
+wls_ssid_shortgi 1 1 1
+wls_ssid_BGProtmode 1 1 1
+wls_ssid_inactivity_limit 1 1 0
+wls_ssid_bridge 1 1 true
+wls_ssid_access_mode 1 1 disable
+wls_ssid_max_sta 1 1 64
+wls_ssid_dhcp_snooping 1 1 false
+wls_ssid_circuit_method 1 1 disable
+wls_ssid_remote_method 1 1 disable
+wls_ssid_vendor_method 1 1 disable
+wls_ssid_disassoc_pwr 1 1 -95
+wls_ssid_deniedassoc_pwr 1 1 -95
+wls_ssid_atf_percentage 1 1 -1
+wls_ssid_enable 1 2 false
+wls_ssid_hidden 1 2 true
+wls_ssid_wmm_capable 1 2 true
+wls_ssid_name 1 2 HITRON-73D8-AP1
+wls_ssid_name_hex_str 1 2 484954524F4E2D373344382D415031
+wls_ssid_def_name 1 2 HITRON-73D8-AP1
+wls_ssid_auth_mode 1 2 wpa2psk
+wls_ssid_encrypt_type 1 2 AES
+wls_ssid_wep_key_id 1 2 0
+wls_ssid_wpa_psk 1 2 B51213037142
+wls_ssid_wep_rekeying 1 2 3600
+wls_ssid_eap_reauth_period 1 2 0
+wls_ssid_htcap_req 1 2 2
+wls_ssid_radius_interface 1 2 erouter0
+wls_wps_enable 1 2 false
+wls_wps_method 1 2 0
+wls_wps_ap_pin 1 2 00000000
+wls_ssid_igmp_snooping 1 2 false
+wls_ssid_rtsthresh 1 2 0
+wls_ssid_fragthresh 1 2 0
+wls_ssid_dtim 1 2 1
+wls_ssid_shortgi 1 2 1
+wls_ssid_BGProtmode 1 2 1
+wls_ssid_inactivity_limit 1 2 0
+wls_ssid_bridge 1 2 true
+wls_ssid_access_mode 1 2 disable
+wls_ssid_max_sta 1 2 64
+wls_ssid_dhcp_snooping 1 2 false
+wls_ssid_circuit_method 1 2 disable
+wls_ssid_remote_method 1 2 disable
+wls_ssid_vendor_method 1 2 disable
+wls_ssid_disassoc_pwr 1 2 -95
+wls_ssid_deniedassoc_pwr 1 2 -95
+wls_ssid_atf_percentage 1 2 -1
+wls_ssid_enable 1 3 false
+wls_ssid_hidden 1 3 true
+wls_ssid_wmm_capable 1 3 true
+wls_ssid_name 1 3 HITRON-73D8-AP2
+wls_ssid_name_hex_str 1 3 484954524F4E2D373344382D415032
+wls_ssid_def_name 1 3 HITRON-73D8-AP2
+wls_ssid_auth_mode 1 3 wpa2psk
+wls_ssid_encrypt_type 1 3 AES
+wls_ssid_wep_key_id 1 3 0
+wls_ssid_wpa_psk 1 3 B51213037142
+wls_ssid_wep_rekeying 1 3 3600
+wls_ssid_eap_reauth_period 1 3 0
+wls_ssid_htcap_req 1 3 2
+wls_ssid_radius_interface 1 3 erouter0
+wls_wps_enable 1 3 false
+wls_wps_method 1 3 0
+wls_wps_ap_pin 1 3 00000000
+wls_ssid_igmp_snooping 1 3 false
+wls_ssid_rtsthresh 1 3 0
+wls_ssid_fragthresh 1 3 0
+wls_ssid_dtim 1 3 1
+wls_ssid_shortgi 1 3 1
+wls_ssid_BGProtmode 1 3 1
+wls_ssid_inactivity_limit 1 3 0
+wls_ssid_bridge 1 3 true
+wls_ssid_access_mode 1 3 disable
+wls_ssid_max_sta 1 3 64
+wls_ssid_dhcp_snooping 1 3 true
+wls_ssid_circuit_method 1 3 auto
+wls_ssid_circuit_id 1 3 60:6c:63:ad:73:d8`HITRON-73D8-AP2`0
+wls_ssid_remote_method 1 3 auto
+wls_ssid_vendor_method 1 3 disable
+wls_ssid_disassoc_pwr 1 3 -95
+wls_ssid_deniedassoc_pwr 1 3 -95
+wls_ssid_atf_percentage 1 3 -1
+wls_ssid_enable 1 4 false
+wls_ssid_hidden 1 4 true
+wls_ssid_wmm_capable 1 4 true
+wls_ssid_name 1 4 HITRON-73D8-AP3
+wls_ssid_name_hex_str 1 4 484954524F4E2D373344382D415033
+wls_ssid_def_name 1 4 HITRON-73D8-AP3
+wls_ssid_auth_mode 1 4 wpa2psk
+wls_ssid_encrypt_type 1 4 AES
+wls_ssid_wep_key_id 1 4 0
+wls_ssid_wpa_psk 1 4 B51213037142
+wls_ssid_wep_rekeying 1 4 3600
+wls_ssid_eap_reauth_period 1 4 0
+wls_ssid_htcap_req 1 4 2
+wls_ssid_radius_interface 1 4 erouter0
+wls_wps_enable 1 4 false
+wls_wps_method 1 4 0
+wls_wps_ap_pin 1 4 00000000
+wls_ssid_igmp_snooping 1 4 false
+wls_ssid_rtsthresh 1 4 0
+wls_ssid_fragthresh 1 4 0
+wls_ssid_dtim 1 4 1
+wls_ssid_shortgi 1 4 1
+wls_ssid_BGProtmode 1 4 1
+wls_ssid_inactivity_limit 1 4 0
+wls_ssid_bridge 1 4 true
+wls_ssid_access_mode 1 4 disable
+wls_ssid_max_sta 1 4 64
+wls_ssid_dhcp_snooping 1 4 true
+wls_ssid_circuit_method 1 4 auto
+wls_ssid_circuit_id 1 4 60:6c:63:ad:73:d8`HITRON-73D8-AP3`0
+wls_ssid_remote_method 1 4 auto
+wls_ssid_vendor_method 1 4 disable
+wls_ssid_disassoc_pwr 1 4 -95
+wls_ssid_deniedassoc_pwr 1 4 -95
+wls_ssid_atf_percentage 1 4 -1
+wls_enable 2 true
+wls_radio_phymode 2 11N/AC
+wireless_OP_mode 2 3
+wireless_user_control 2 1
+wls_radio_txpower 2 100
+wls_radio_countrycode 2 158
+wls_radio_bandwidth 2 3
+wls_radio_channel 2 0
+wls_radio_ccaed_thresvalue 2 0
+wls_radio_dfsblock 2 false
+wls_radio_coexistence 2 true
+wls_radio_beacon 2 100
+wls_radio_shortretrylimit 2 0
+wls_radio_longRetrylimit 2 0
+wls_radio_outpower 2 0
+wls_radio_rate 2 0
+wls_radio_manrate 2 0
+wls_bandsteering_enable 2 true
+wls_fastroaming_enable 2 false
+wls_radio_dcs_enable 2 false
+wls_radio_vow_enable 2 true
+wls_radio_acs_mode 2 1
+wls_auto_acl_enable 2 false
+wls_auto_acl_privssid 2 1
+wls_auto_acl_pubssid 2 0
+wls_radius_interface 2 erouter0
+wls_radio_atf_algorithm_type 2 0
+wls_radio_atf_strick_sched 2 false
+wls_radio_atf_ssid_level 2 0
+wls_ssid_enable 2 1 true
+wls_ssid_hidden 2 1 false
+wls_ssid_wmm_capable 2 1 true
+wls_ssid_name 2 1 HITRON-73D8-5G
+wls_ssid_name_hex_str 2 1 484954524F4E2D373344382D3547
+wls_ssid_def_name 2 1 HITRON-73D8-5G
+wls_ssid_auth_mode 2 1 wpa2psk
+wls_ssid_encrypt_type 2 1 AES
+wls_ssid_wep_key_id 2 1 0
+wls_ssid_wep_key 2 1 1 ascii 89383
+wls_ssid_wpa_psk 2 1 B51213037142
+wls_ssid_wep_rekeying 2 1 3600
+wls_ssid_eap_reauth_period 2 1 0
+wls_ssid_htcap_req 2 1 2
+wls_ssid_vhtcap_req 2 1 2
+wls_ssid_radius_interface 2 1 erouter0
+wls_wps_enable 2 1 true
+wls_wps_method 2 1 0
+wls_wps_ap_pin 2 1 00000000
+wls_ssid_igmp_snooping 2 1 false
+wls_ssid_rtsthresh 2 1 0
+wls_ssid_fragthresh 2 1 0
+wls_ssid_dtim 2 1 1
+wls_ssid_shortgi 2 1 1
+wls_ssid_BGProtmode 2 1 1
+wls_ssid_inactivity_limit 2 1 0
+wls_ssid_bridge 2 1 true
+wls_ssid_access_mode 2 1 disable
+wls_ssid_max_sta 2 1 64
+wls_ssid_dhcp_snooping 2 1 false
+wls_ssid_circuit_method 2 1 disable
+wls_ssid_remote_method 2 1 disable
+wls_ssid_vendor_method 2 1 disable
+wls_ssid_disassoc_pwr 2 1 -95
+wls_ssid_deniedassoc_pwr 2 1 -95
+wls_ssid_atf_percentage 2 1 -1
+wls_ssid_enable 2 2 false
+wls_ssid_hidden 2 2 true
+wls_ssid_wmm_capable 2 2 true
+wls_ssid_name 2 2 HITRON-73D8-AP2-5G
+wls_ssid_name_hex_str 2 2 484954524F4E2D373344382D4150322D3547
+wls_ssid_def_name 2 2 HITRON-73D8-AP2-5G
+wls_ssid_auth_mode 2 2 wpa2psk
+wls_ssid_encrypt_type 2 2 AES
+wls_ssid_wep_key_id 2 2 0
+wls_ssid_wep_key 2 2 1 ascii 30886
+wls_ssid_wpa_psk 2 2 B51213037142
+wls_ssid_wep_rekeying 2 2 3600
+wls_ssid_eap_reauth_period 2 2 0
+wls_ssid_htcap_req 2 2 2
+wls_ssid_vhtcap_req 2 2 2
+wls_ssid_radius_interface 2 2 erouter0
+wls_wps_enable 2 2 false
+wls_wps_method 2 2 0
+wls_wps_ap_pin 2 2 00000000
+wls_ssid_igmp_snooping 2 2 false
+wls_ssid_rtsthresh 2 2 0
+wls_ssid_fragthresh 2 2 0
+wls_ssid_dtim 2 2 1
+wls_ssid_shortgi 2 2 1
+wls_ssid_BGProtmode 2 2 1
+wls_ssid_inactivity_limit 2 2 0
+wls_ssid_bridge 2 2 true
+wls_ssid_access_mode 2 2 disable
+wls_ssid_max_sta 2 2 64
+wls_ssid_dhcp_snooping 2 2 false
+wls_ssid_circuit_method 2 2 disable
+wls_ssid_remote_method 2 2 disable
+wls_ssid_vendor_method 2 2 disable
+wls_ssid_disassoc_pwr 2 2 -95
+wls_ssid_deniedassoc_pwr 2 2 -95
+wls_ssid_atf_percentage 2 2 -1
+wls_ssid_enable 2 3 false
+wls_ssid_hidden 2 3 true
+wls_ssid_wmm_capable 2 3 true
+wls_ssid_name 2 3 HITRON-73D8-AP3-5G
+wls_ssid_name_hex_str 2 3 484954524F4E2D373344382D4150332D3547
+wls_ssid_def_name 2 3 HITRON-73D8-AP3-5G
+wls_ssid_auth_mode 2 3 wpa2psk
+wls_ssid_encrypt_type 2 3 AES
+wls_ssid_wep_key_id 2 3 0
+wls_ssid_wep_key 2 3 1 ascii 92777
+wls_ssid_wpa_psk 2 3 B51213037142
+wls_ssid_wep_rekeying 2 3 3600
+wls_ssid_eap_reauth_period 2 3 0
+wls_ssid_htcap_req 2 3 2
+wls_ssid_vhtcap_req 2 3 2
+wls_ssid_radius_interface 2 3 erouter0
+wls_wps_enable 2 3 false
+wls_wps_method 2 3 0
+wls_wps_ap_pin 2 3 00000000
+wls_ssid_igmp_snooping 2 3 false
+wls_ssid_rtsthresh 2 3 0
+wls_ssid_fragthresh 2 3 0
+wls_ssid_dtim 2 3 1
+wls_ssid_shortgi 2 3 1
+wls_ssid_BGProtmode 2 3 1
+wls_ssid_inactivity_limit 2 3 0
+wls_ssid_bridge 2 3 true
+wls_ssid_access_mode 2 3 disable
+wls_ssid_max_sta 2 3 64
+wls_ssid_dhcp_snooping 2 3 true
+wls_ssid_circuit_method 2 3 auto
+wls_ssid_circuit_id 2 3 60:6c:63:ad:73:d8` HITRON-73D8-AP3-5G`0
+wls_ssid_remote_method 2 3 auto
+wls_ssid_vendor_method 2 3 disable
+wls_ssid_disassoc_pwr 2 3 -95
+wls_ssid_deniedassoc_pwr 2 3 -95
+wls_ssid_atf_percentage 2 3 -1
+wls_ssid_enable 2 4 false
+wls_ssid_hidden 2 4 true
+wls_ssid_wmm_capable 2 4 true
+wls_ssid_name 2 4 HITRON-73D8-AP4-5G
+wls_ssid_name_hex_str 2 4 484954524F4E2D373344382D4150342D3547
+wls_ssid_def_name 2 4 HITRON-73D8-AP4-5G
+wls_ssid_auth_mode 2 4 wpa2psk
+wls_ssid_encrypt_type 2 4 AES
+wls_ssid_wep_key_id 2 4 0
+wls_ssid_wep_key 2 4 1 ascii 36915
+wls_ssid_wpa_psk 2 4 B51213037142
+wls_ssid_wep_rekeying 2 4 3600
+wls_ssid_eap_reauth_period 2 4 0
+wls_ssid_htcap_req 2 4 2
+wls_ssid_vhtcap_req 2 4 2
+wls_ssid_radius_interface 2 4 erouter0
+wls_wps_enable 2 4 false
+wls_wps_method 2 4 0
+wls_wps_ap_pin 2 4 00000000
+wls_ssid_igmp_snooping 2 4 false
+wls_ssid_rtsthresh 2 4 0
+wls_ssid_fragthresh 2 4 0
+wls_ssid_dtim 2 4 1
+wls_ssid_shortgi 2 4 1
+wls_ssid_BGProtmode 2 4 1
+wls_ssid_inactivity_limit 2 4 0
+wls_ssid_bridge 2 4 true
+wls_ssid_access_mode 2 4 disable
+wls_ssid_max_sta 2 4 64
+wls_ssid_dhcp_snooping 2 4 true
+wls_ssid_circuit_method 2 4 auto
+wls_ssid_circuit_id 2 4 60:6c:63:ad:73:d8` HITRON-73D8-AP4-5G`0
+wls_ssid_remote_method 2 4 auto
+wls_ssid_vendor_method 2 4 disable
+wls_ssid_disassoc_pwr 2 4 -95
+wls_ssid_deniedassoc_pwr 2 4 -95
+wls_ssid_atf_percentage 2 4 -1
+switch_port 1 up auto 1000M full
+switch_port 2 up auto 1000M full
+switch_port 3 up auto 1000M full
+switch_port 4 up auto 1000M full
+switch_igmp_enable true
+drp_rip_metric 1
+drp_rip_update_interval 30
+drp_rip_cable_as_wan_enable false
+drp_rip_debug false
+drp_rip_wan_send wan none
+drp_rip_wan_receive wan none
+drp_rip_wan_auth_id wan 0
+drp_rip_wan_auth_type wan none
+drp_rip_wan_send dummy0 none
+drp_rip_wan_receive dummy0 none
+drp_rip_wan_auth_id dummy0 0
+drp_rip_wan_auth_type dummy0 none
+drp_rip_lan_send ether0 none
+drp_rip_lan_receive ether0 none
+drp_rip_lan_auth_id ether0 0
+drp_rip_lan_auth_type ether0 none
+drp_rip_lan_send mssid1 none
+drp_rip_lan_receive mssid1 none
+drp_rip_lan_auth_id mssid1 0
+drp_rip_lan_auth_type mssid1 none
+drp_rip_lan_send mssid2 none
+drp_rip_lan_receive mssid2 none
+drp_rip_lan_auth_id mssid2 0
+drp_rip_lan_auth_type mssid2 none
+drp_rip_lan_send mssid3 none
+drp_rip_lan_receive mssid3 none
+drp_rip_lan_auth_id mssid3 0
+drp_rip_lan_auth_type mssid3 none
+drp_ripng_metric 1
+drp_ripng_update_interval 30
+drp_ripng_debug false
+drp_ripng_wan_send_enable wan false
+drp_ripng_wan_receive_enable wan false
+drp_ripng_wan_send_enable dummy0 false
+drp_ripng_wan_receive_enable dummy0 false
+drp_ripng_lan_send_enable ether0 false
+drp_ripng_lan_receive_enable ether0 false
+drp_ripng_lan_send_enable mssid1 false
+drp_ripng_lan_receive_enable mssid1 false
+drp_ripng_lan_send_enable mssid2 false
+drp_ripng_lan_receive_enable mssid2 false
+drp_ripng_lan_send_enable mssid3 false
+drp_ripng_lan_receive_enable mssid3 false
+samba_enable false
+samba_share_path /var/usb_storage
+sntp_enable false
+sntp_timezone 1
+sntp_servername pool.ntp.org
+tod_enable true
+tod_timezone 0
+tod_bset false
+tod_bConfigfileSet false
+daylight_enable false
+daylight_time 60
+zeroconf_enable false
+upnp_enable true
+upnp_igd_enable true
+upnp_igd_natpmp_enable true
+upnp_igd_port_map_enable true
+upnp_igd_interval 30
+upnp_igd_service_name CGN5
+upnp_igd_model_number v1.0
+upnp_autosyn_server_enable true
+upnp_acs_sync_enable true
+#
+
+echo "ps" | nc 192.168.254.254 54321
+  PID USER       VSZ STAT COMMAND
+    1 root      1812 S    init [5]
+    2 root         0 SW   [kthreadd]
+    3 root         0 SW   [ksoftirqd/0]
+    4 root         0 SW   [kworker/0:0]
+    5 root         0 SW<  [kworker/0:0H]
+    6 root         0 SW   [kworker/u4:0]
+    7 root         0 SW   [migration/0]
+    8 root         0 SW   [rcu_preempt]
+    9 root         0 SW   [rcu_bh]
+   10 root         0 SW   [rcu_sched]
+   11 root         0 SW   [migration/1]
+   12 root         0 SW   [ksoftirqd/1]
+   14 root         0 SW<  [kworker/1:0H]
+   15 root         0 SW<  [khelper]
+   16 root         0 SW   [kdevtmpfs]
+   17 root         0 SW<  [writeback]
+   18 root         0 SW<  [bioset]
+   19 root         0 SW<  [kblockd]
+   20 root         0 SW<  [ata_sff]
+   21 root         0 SW   [khubd]
+   22 root         0 SW   [kworker/1:1]
+   23 root         0 SW<  [cfg80211]
+   25 root         0 SW   [kswapd0]
+   26 root         0 SW   [fsnotify_mark]
+   27 root         0 SW<  [crypto]
+   41 root         0 SW   [scsi_eh_0]
+   42 root         0 SW   [scsi_eh_1]
+   43 root         0 SW   [kworker/u4:1]
+   50 root         0 SW<  [0000:01:17.0]
+   51 root         0 SW   [kworker/0:2]
+   52 root         0 SW   [mmcqd/0]
+   53 root         0 SW   [mmcqd/0boot0]
+   54 root         0 SW   [mmcqd/0boot1]
+   56 root         0 SW<  [deferwq]
+   57 root         0 SW<  [kworker/0:1H]
+  395 root         0 SW<  [kworker/1:1H]
+  404 root      2504 S    /sbin/syslogd -n -O /var/log/messages
+  407 root      2504 S    /sbin/klogd -n
+  853 root      2504 S    syslogd -O /tmp/messages
+  903 root      2300 S <  udevd -d
+ 1009 root      2360 S <  udevd -d
+ 1010 root      2360 S <  udevd -d
+ 1136 root         0 SW   [kjournald]
+ 1178 root      1652 S    /usr/bin/sync_app_np_reboot
+ 1183 root         0 SW<  [pwmd]
+ 1213 root      1656 S    watchdog_daemon -t 10
+ 1352 root         0 SW   [SEC int]
+ 2995 root         0 SW   [kworker/1:2]
+ 3079 root         0 DW   [mtlk_wlan0]
+ 3140 root         0 DW   [mtlk_wlan2]
+ 4273 daemon    1824 S    portmap -l -i 192.168.254.254
+ 4279 root      1976 S    rpc_wlan_config_server 192.168.254.254
+ 4284 root      1904 S    rpc_management_server 192.168.254.254 192.168.254.25
+ 4320 root      3044 S    /bin/icepm_daemon
+ 4611 root      1660 S    ht_iwcmdd
+ 4612 root      2520 S    nc -lk -s 192.168.254.254 -p 54321 -e /bin/sh
+ 4644 root      2508 S    /sbin/getty 115200 ttyS0
+ 4645 root      2508 S    /sbin/getty 115200 ttyS1
+ 4646 root      2508 S    /sbin/getty 38400 tty1
+17682 root      5788 S    /tmp/hostapd_wlan0 /tmp/wlan_wave/hostapd_wlan0.conf
+17694 root      2020 S    /tmp/hostapd_cli_wlan0 -iwlan0 -a/etc/wave/scripts/f
+17699 root      4704 S    {fapi_wlan_wave_} /bin/sh /etc/wave/scripts/fapi_wla
+17707 root      6564 S    /tmp/drvhlpr_wlan0 -p /tmp/wlan_wave/drvhlpr_wlan0.c
+18107 root      5788 S    /tmp/hostapd_wlan2 /tmp/wlan_wave/hostapd_wlan2.conf
+18111 root      2020 S    /tmp/hostapd_cli_wlan2 -iwlan2 -a/etc/wave/scripts/f
+18116 root      4704 S    {fapi_wlan_wave_} /bin/sh /etc/wave/scripts/fapi_wla
+18124 root      6564 S    /tmp/drvhlpr_wlan2 -p /tmp/wlan_wave/drvhlpr_wlan2.c
+18699 root      2772 S    fapi_wlan_beerock_cli BAND_STEERING -50 -76 3 10 3
+32462 root      2528 S    /bin/sh
+32463 root      2508 R    ps
+# 
+echo "dmesg" | nc 192.168.254.254 54321
+Initializing cgroup subsys cpuset
+Initializing cgroup subsys cpu
+Initializing cgroup subsys cpuacct
+Linux version 3.12.17 (jenkins@sddadmin-virtual-machine) (gcc version 4.8.2 (GCC) ) #1 SMP PREEMPT Thu Sep 17 16:09:51 CST 2020
+Disabled fast string operations
+e820: BIOS-provided physical RAM map:
+BIOS-e820: [mem 0x0000000000000000-0x0000000000011aaf] reserved
+BIOS-e820: [mem 0x0000000000011ab0-0x0000000000017fff] ACPI data
+BIOS-e820: [mem 0x0000000000018000-0x000000000001ffff] reserved
+BIOS-e820: [mem 0x0000000000020000-0x000000000003ffff] usable
+BIOS-e820: [mem 0x0000000000040000-0x00000000000fffff] reserved
+BIOS-e820: [mem 0x0000000000100000-0x00000000073fffff] usable
+BIOS-e820: [mem 0x0000000007400000-0x0000000007ffffff] reserved
+BIOS-e820: [mem 0x0000000008000000-0x000000000fffffff] usable
+BIOS-e820: [mem 0x0000000010000000-0x000000001fffffff] reserved
+BIOS-e820: [mem 0x00000000fec00000-0x00000000fec003ff] type 6
+BIOS-e820: [mem 0x00000000fee00000-0x00000000fee003ff] type 7
+e820: update [mem 0x0008fc00-0x0008fe97] usable ==> usable
+e820: update [mem 0x0008fe98-0x0008feab] usable ==> usable
+extended physical RAM map:
+reserve setup_data: [mem 0x0000000000000000-0x0000000000011aaf] reserved
+reserve setup_data: [mem 0x0000000000011ab0-0x0000000000017fff] ACPI data
+reserve setup_data: [mem 0x0000000000018000-0x000000000001ffff] reserved
+reserve setup_data: [mem 0x0000000000020000-0x000000000003ffff] usable
+reserve setup_data: [mem 0x0000000000040000-0x00000000000fffff] reserved
+reserve setup_data: [mem 0x0000000000100000-0x00000000073fffff] usable
+reserve setup_data: [mem 0x0000000007400000-0x0000000007ffffff] reserved
+reserve setup_data: [mem 0x0000000008000000-0x000000000fffffff] usable
+reserve setup_data: [mem 0x0000000010000000-0x000000001fffffff] reserved
+reserve setup_data: [mem 0x00000000fec00000-0x00000000fec003ff] type 6
+reserve setup_data: [mem 0x00000000fee00000-0x00000000fee003ff] type 7
+NX (Execute Disable) protection: active
+DMI not present or invalid.
+e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+e820: remove [mem 0x000a0000-0x000fffff] usable
+e820: last_pfn = 0x10000 max_arch_pfn = 0x1000000
+MTRR default type: uncachable
+MTRR fixed ranges enabled:
+  00000-9FFFF write-back
+  A0000-BFFFF uncachable
+  C0000-EFFFF write-back
+  F0000-FFFFF write-protect
+MTRR variable ranges enabled:
+  0 base 000000000 mask FE0000000 write-back
+  1 disabled
+  2 disabled
+  3 disabled
+  4 disabled
+  5 disabled
+  6 disabled
+  7 disabled
+x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+initial memory mapped: [mem 0x00000000-0x01bfffff]
+Base memory trampoline at [c003c000] 3c000 size 16384
+init_memory_mapping: [mem 0x00000000-0x000fffff]
+ [mem 0x00000000-0x000fffff] page 4k
+init_memory_mapping: [mem 0x0fe00000-0x0fffffff]
+ [mem 0x0fe00000-0x0fffffff] page 2M
+init_memory_mapping: [mem 0x0c000000-0x0fdfffff]
+ [mem 0x0c000000-0x0fdfffff] page 2M
+init_memory_mapping: [mem 0x00100000-0x073fffff]
+ [mem 0x00100000-0x001fffff] page 4k
+ [mem 0x00200000-0x073fffff] page 2M
+init_memory_mapping: [mem 0x08000000-0x0bffffff]
+ [mem 0x08000000-0x0bffffff] page 2M
+ACPI: RSDP 0009fc00 00024 (v02 INTEL )
+ACPI: RSDT 00017fb0 00030 (v01 INTEL           00000000      00000000)
+ACPI: FACP 00013b20 000F4 (v03 INTEL           00000000      00000000)
+ACPI: DSDT 00013c20 010D4 (v01 Intel    CE2600 00000001 INTL 20091112)
+ACPI: FACS 00017f70 00040
+ACPI: APIC 00011af0 00068 (v01 INTEL           00000000      00000000)
+ACPI: HPET 00011ab0 00038 (v01 INTEL           00000000      00000000)
+ACPI: Local APIC address 0xfee00000
+0MB HIGHMEM available.
+256MB LOWMEM available.
+  mapped low ram: 0 - 10000000
+  low ram: 0 - 10000000
+BRK [0x0175f000, 0x0175ffff] PGTABLE
+Zone ranges:
+  DMA      [mem 0x00020000-0x00ffffff]
+  Normal   [mem 0x01000000-0x0fffffff]
+  HighMem  empty
+Movable zone start for each node
+Early memory node ranges
+  node   0: [mem 0x00020000-0x0003ffff]
+  node   0: [mem 0x00100000-0x073fffff]
+  node   0: [mem 0x08000000-0x0fffffff]
+On node 0 totalpages: 62240
+free_area_init_node: node 0, pgdat c1694f00, node_mem_map cfe00400
+
+.
+
+echo "ls /var/run/acs_* -l" | nc 192.168.254.254 54321
+# 
+
+echo "cat /var/run/acs_history_wlan0.txt" | nc 192.168.254.254 54321
+# 
+
+echo "cat /var/run/acs_history_wlan2.txt" | nc 192.168.254.254 54321
+# 
+
+echo "cat /var/run/acs_smart_info_wlan0.txt" | nc 192.168.254.254 54321
+# 
+echo "cat /var/run/acs_smart_info_wlan2.txt" | nc 192.168.254.254 54321
+# 
+
+echo "ls -la /var/run/" | nc 192.168.254.254 54321
+drwxr-xr-x    5 root     root           240 Sep 17 14:42 .
+drwxr-xr-x   17 118      128            300 Sep 17 10:12 ..
+drwxr-xr-x    2 root     root            40 Sep 17 14:40 dhcpv6
+drwxr-x---    2 root     root            80 Sep 17 14:42 hostapd
+-rw-r--r--    1 root     root             6 Sep 17 14:42 ht_band_steering.pid
+-rw-r--r--    1 root     root             4 Sep 17 14:40 klogd.pid
+lrwxrwxrwx    1 root     root            16 Sep 17 14:40 ld.so.cache -> /etc/ld.so.cache
+drwxrwxrwt    3 root     root            60 Sep 17 14:40 lock
+-rw-------    1 root     root            79 Sep 17 14:41 portmap_mapping
+-rw-r--r--    1 root     root             0 Sep 17 14:40 resolv.conf
+-rw-r--r--    1 root     root             4 Sep 17 14:40 syslogd.pid
+-rw-rw-r--    1 root     root          2688 Sep 17 14:41 utmp
+# 
+.
+
+echo "ls /sys/class/ieee80211/" | nc 192.168.254.254 54321
+phy0
+phy1
+phy2
+phy3
+# 
+.
+
+mtdump wlan0.0 Peerlist
+Failed to retrieve information from wlan: Entry not found
+Command processing failed: Entry not found
+# 
+.
+
+mtdump wlan2.0 Peerlist
+Failed to retrieve information from wlan: Entry not found
+Command processing failed: Entry not found
+# 
+
+iw dev wlan0.0 station dump
+command failed: No such device (-19)
+# 
+
+iw dev wlan2.0 station dump
+command failed: No such device (-19)
+# 
+.
+
+echo "thermal -r" | nc 192.168.254.254 54321
+Current CPU temperature is 73 degrees C
+# 
+
+iwpriv wlan0 gTemperature
+wlan0     gTemperature:65  65  65  
+# 
+.
+
+iwpriv wlan2 gTemperature
+wlan2     gTemperature:58  58  58  
+# 
+
+mtdump wlan2.0 RecoveryStats
+Failed to retrieve information from wlan: Entry not found
+Command processing failed: Entry not found
+# 
+
+mtdump wlan0.0 RecoveryStats
+Failed to retrieve information from wlan: Entry not found
+Command processing failed: Entry not found
+# 
+
+cat /nvram/wifi_2g_recovery_count
+cat: can't open '/nvram/wifi_2g_recovery_count': No such file or directory
+# 
+.
+
+cat /nvram/wifi_5g_recovery_count
+cat: can't open '/nvram/wifi_5g_recovery_count': No such file or directory
+# 
+
+echo "lspci -k" | nc 192.168.254.254 54321
+00:00.0 Class 0600: 8086:0931 iosf-sb
+00:00.1 Class 0800: 8086:2e58
+00:00.2 Class 0880: 8086:2e52
+00:01.0 Class 0604: 8086:0700
+00:0e.0 Class 0106: 8086:0c82 ahci
+00:1c.0 Class 0604: 8086:0899 pcieport
+00:1c.1 Class 0604: 8086:089a pcieport
+00:1e.0 Class 0000: 8086:08bc p_unit_access_drv
+00:1f.0 Class 0601: 8086:8119
+01:00.0 Class 0280: 8086:0947 udma
+01:01.0 Class 0280: 8086:0947 udma
+01:04.0 Class 0480: 8086:2e5d
+01:05.0 Class 0280: 8086:0948
+01:07.0 Class 0b40: 8086:0956
+01:09.0 Class 1010: 8086:2e64 sec_kernel
+01:10.0 Class 1010: 8086:0702 sec_kernel
+01:14.0 Class 0480: 8086:0705
+01:17.0 Class 0501: 8086:08a0 ce5xx-spi-flash
+01:0b.0 Class 0700: 8086:2e66 serial
+01:0b.1 Class ff00: 8086:2e67 intelce_gpio
+01:0b.2 Class ff00: 8086:2e68
+01:0b.3 Class 0705: 8086:2e69 scard_pci_driver
+01:0b.5 Class 0480: 8086:2e6b
+01:0b.6 Class ff00: 8086:089f pwm
+01:0b.7 Class ff00: 8086:2e6d sven
+01:0c.0 Class 0200: 8086:2e6e e1000
+01:0c.1 Class ff00: 8086:2e6f
+01:0d.0 Class 0c03: 192e:0101 ehci-pci
+01:0d.1 Class 0c03: 192e:0101 ehci-pci
+01:0d.2 Class 0c03: 192e:0101 ehci-pci
+01:0e.0 Class 0880: 8086:0949 ce-hw-mutex
+01:0f.0 Class 0880: 8086:094a intelce watchdog
+01:1b.0 Class 0805: 8086:070b sdhci-pci
+01:1c.0 Class 0280: 8086:0957
+01:1d.0 Class 0280: 8086:08bd
+01:1e.0 Class 0280: 8086:08be
+01:1f.0 Class 0280: 8086:0946 mailbox driver
+02:00.0 Class 0d80: 1bef:0810 mtlk
+03:00.0 Class 0d80: 1bef:0810 mtlk
+# 
+
+echo "uci show" | nc 192.168.254.254 54321
+# 
+echo "cat ./run/hostapd-phy0.conf" | nc 192.168.254.254 54321
+# 
+echo "cat ./run/hostapd-phy2.conf" | nc 192.168.254.254 54321
+# 
+
+echo "cat ./run/hostapd-phy0.conf" | nc 192.168.254.254 54321 |grep -i ssid=
+# 
+.
+
+echo "cat ./run/hostapd-phy2.conf" | nc 192.168.254.254 54321 |grep -i ssid=
+# 
+.
+
+echo "cat ./run/hostapd-phy0.conf" | nc 192.168.254.254 54321 |grep -i wpa_pas
+sphrase=
+# 
+.
+
+echo "cat ./run/hostapd-phy2.conf" | nc 192.168.254.254 54321 |grep -i wpa_pas
+sphrase=
+# 
+
+echo "cat /proc/net/mtlk/wlan0/channel" | nc 192.168.254.254 54321
+width:                    20
+center_freq1:           2462
+chan.center_freq:       2462
+channum_from:             11
+channum_to:               11
+primary_channel:          11
+primary_chan_idx:          0
+# 
+
+echo "cat /proc/net/mtlk/wlan2/channel" | nc 192.168.254.254 54321
+width:                    80
+center_freq1:           5775
+chan.center_freq:       5785
+channum_from:            149
+channum_to:              161
+primary_channel:         157
+primary_chan_idx:          2
+# 
+
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet 3:
+
+   Connection-specific DNS Suffix  . : 
+   IPv4 Address. . . . . . . . . . . : 192.168.143.249
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.143.248
+
+Ethernet adapter Ethernet5:
+
+   Connection-specific DNS Suffix  . : hitronhub.home
+   IPv4 Address. . . . . . . . . . . : 192.168.0.145
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+Ethernet adapter Ethernet 5:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::40f5:b5:12d2:f0b5%62
+   IPv4 Address. . . . . . . . . . . : 192.168.5.10
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::8000:9f7e:643c:b1db%9
+   IPv4 Address. . . . . . . . . . . : 172.25.103.9
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 172.25.103.254
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::fd61:c1d5:fb83:6764%19
+   IPv4 Address. . . . . . . . . . . : 192.168.126.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.143.248
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::25fa:88dd:ed11:db77%7
+   IPv4 Address. . . . . . . . . . . : 192.168.154.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Wireless LAN adapter Wi-Fi 3:
+
+   Connection-specific DNS Suffix  . : hitronhub.home
+   Link-local IPv6 Address . . . . . : fe80::ec7a:3065:f9f8:8364%18
+   IPv4 Address. . . . . . . . . . . : 192.168.0.86
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.0.1
+
+
+Pinging 192.168.0.1 from 192.168.0.145 with 32 bytes of data:
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=1ms TTL=64
+
+Ping statistics for 192.168.0.1:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 1ms, Maximum = 3ms, Average = 1ms
+
+
+Pinging 8.8.8.8 from 192.168.0.145 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+
+
+
+Pinging 192.168.0.1 from 192.168.0.86 with 32 bytes of data:
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=2ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=4ms TTL=64
+Reply from 192.168.0.1: bytes=32 time=3ms TTL=64
+
+Ping statistics for 192.168.0.1:
+    Packets: Sent = 20, Received = 20, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 4ms, Average = 3ms
+
+
+Pinging 8.8.8.8 from 192.168.0.86 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 8.8.8.8:
+    Packets: Sent = 20, Received = 0, Lost = 20 (100% loss),
+
+
